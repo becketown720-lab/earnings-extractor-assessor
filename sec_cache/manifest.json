@@ -1,126 +1,150 @@
 {
-  "fetched_at": "2026-10-28T08:44:25+08:00",
+  "fetched_at": "2026-10-29T08:49:07+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-10-26",
-    "end": "2026-10-27",
+    "end": "2026-10-28",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 17,
-  "answered": 17,
+  "requests": 21,
+  "answered": 21,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-28",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 216 ms"
+      "detail": "HTTP 200, 60 KB in 102 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-28&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 71 ms"
+      "detail": "HTTP 200, 59 KB in 1794 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-28&from=200",
       "ok": true,
-      "detail": "HTTP 200, 30 KB in 85 ms"
+      "detail": "HTTP 200, 60 KB in 314 ms"
+    },
+    {
+      "name": "Earnings radar, page 4",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-28&from=300",
+      "ok": true,
+      "detail": "HTTP 200, 61 KB in 1087 ms"
+    },
+    {
+      "name": "Earnings radar, page 5",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-28&from=400",
+      "ok": true,
+      "detail": "HTTP 200, 54 KB in 920 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 104 ms"
+      "detail": "HTTP 200, 149 KB in 28 ms"
+    },
+    {
+      "name": "Alphabet filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 96 ms"
+    },
+    {
+      "name": "Alphabet press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+      "ok": true,
+      "detail": "HTTP 200, 361 KB in 88 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 67 ms"
+      "detail": "HTTP 200, 156 KB in 17 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 59 ms"
+      "detail": "HTTP 200, 156 KB in 15 ms"
     },
     {
-      "name": "W. P. Carey Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1025378/000102537826000129/index.json",
+      "name": "CONSTELLIUM SE filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1563411/000156341126000198/index.json",
       "ok": true,
-      "detail": "HTTP 200, 8 KB in 251 ms"
+      "detail": "HTTP 200, 6 KB in 71 ms"
     },
     {
-      "name": "W. P. Carey Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1025378/000102537826000129/0001025378-26-000129-index.htm",
+      "name": "CONSTELLIUM SE filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1563411/000156341126000198/0001563411-26-000198-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 29 KB in 87 ms"
+      "detail": "HTTP 200, 23 KB in 178 ms"
     },
     {
-      "name": "W. P. Carey Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1025378/000102537826000129/wpc2026q38-kerexh991.htm",
+      "name": "CONSTELLIUM SE press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1563411/000156341126000198/a2026-q3xearningspressre.htm",
       "ok": true,
-      "detail": "HTTP 200, 294 KB in 446 ms"
+      "detail": "HTTP 200, 65 KB in 86 ms"
     },
     {
-      "name": "OpenWorld, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926013228/index.json",
+      "name": "Regional Management Corp. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1519401/000151940126000019/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 135 ms"
+      "detail": "HTTP 200, 4 KB in 65 ms"
     },
     {
-      "name": "OpenWorld, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926013228/ex99_1.htm",
+      "name": "Regional Management Corp. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1519401/000151940126000019/rm-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 26 KB in 172 ms"
+      "detail": "HTTP 200, 1,374 KB in 123 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 117 ms"
+      "detail": "HTTP 200, 3,090 KB in 56 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 108 ms"
+      "detail": "HTTP 200, 4,373 KB in 52 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 154 ms"
+      "detail": "HTTP 200, 2,737 KB in 23 ms"
     },
     {
-      "name": "W. P. Carey Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001025378.json",
+      "name": "CONSTELLIUM SE company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001563411.json",
       "ok": true,
-      "detail": "HTTP 200, 4,714 KB in 358 ms"
+      "detail": "HTTP 200, 1,530 KB in 177 ms"
     },
     {
-      "name": "OpenWorld, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001104038.json",
+      "name": "Regional Management Corp. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001519401.json",
       "ok": true,
-      "detail": "HTTP 200, 2,215 KB in 323 ms"
+      "detail": "HTTP 200, 2,776 KB in 72 ms"
     },
     {
       "name": "Greystone Housing Impact Investors LP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001059142.json",
       "ok": true,
-      "detail": "HTTP 200, 2,567 KB in 446 ms"
+      "detail": "HTTP 200, 2,567 KB in 71 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001025378.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001059142.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001104038.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001519401.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001563411.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -128,10 +152,14 @@
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
-    "www.sec.gov_Archives_edgar_data_1025378_000102537826000129_0001025378-26-000129-index.htm",
-    "www.sec.gov_Archives_edgar_data_1025378_000102537826000129_index.json",
-    "www.sec.gov_Archives_edgar_data_1025378_000102537826000129_wpc2026q38-kerexh991.htm",
-    "www.sec.gov_Archives_edgar_data_1104038_000121465926013228_ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1104038_000121465926013228_index.json"
+    "efts.sec.gov_search-index_from300.json",
+    "efts.sec.gov_search-index_from400.json",
+    "www.sec.gov_Archives_edgar_data_1519401_000151940126000019_index.json",
+    "www.sec.gov_Archives_edgar_data_1519401_000151940126000019_rm-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1563411_000156341126000198_0001563411-26-000198-index.htm",
+    "www.sec.gov_Archives_edgar_data_1563411_000156341126000198_a2026-q3xearningspressre.htm",
+    "www.sec.gov_Archives_edgar_data_1563411_000156341126000198_index.json",
+    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
+    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json"
   ]
 }

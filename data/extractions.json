@@ -265,5 +265,251 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000093/ibm-20261021xex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000093/0000051143-26-000093-index.htm",
     "saved_at": "2026-10-26T19:45:02+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 31,228 | $ | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenues grew 25% year over year.",
+        "quote": "Our deep full stack approach is driving momentum across the business, with Alphabet revenues growing 25% year-over year."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says Google Cloud revenues grew 103% on AI demand.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO describes the quarter as strong.",
+        "quote": "We had a strong quarter and are now on a half-trillion dollar revenue run rate."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to growth across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:08:22+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion, growth of 12% to 16%.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says AWS revenue grew over 39% year over year.",
+        "quote": "Our AWS investment in functionality and infrastructure is working, with over 39% year-over-year revenue growth in Q3 ($184 billion revenue run rate)"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The headline says operating margin was the highest the company has reported.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The release says net income fell, mainly because of gains in the prior-year quarter.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses AWS growth and retail share gains; the release explains the lower net income."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:08:22+08:00"
+  },
+  {
+    "cik": "1809987",
+    "company": "Mirion Technologies, Inc.",
+    "accession": "0001628280-26-067591",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 277.8,
+        "unit": "USD millions",
+        "quote": "Total revenues | 277.8 | 223.1"
+      },
+      "operating_income": {
+        "value": 17.2,
+        "unit": "USD millions",
+        "quote": "Income from operations | 17.2 | 7.4"
+      },
+      "net_income": {
+        "value": 7.4,
+        "unit": "USD millions",
+        "quote": "Net income attributable to Mirion Technologies, Inc. | $ | 7.4 | $ | 2.9"
+      },
+      "diluted_eps": {
+        "value": 0.03,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.03 | $ | 0.01"
+      }
+    },
+    "guidance": {
+      "text": "Mirion expects 2026 revenue growth of about 24% to 25%, raised from 22% to 24%.",
+      "quote": "Revenue growth of approximately 24% – 25%; includes foreign exchange rate and acquisition-related impacts (previously 22.0% – 24.0%)."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenues rose 24.5% in the quarter.",
+        "quote": "Revenues for the third quarter increased 24.5% to $277.8 million, compared to $223.1 million in the same period in 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO expects mid-to-high teens organic growth in the fourth quarter.",
+        "quote": "Organic revenue increased 6.5% in the third quarter and we expect mid-to-high teens growth in the fourth quarter."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says guidance was updated for better visibility.",
+        "quote": "We are updating our guidance to reflect increased visibility to full year performance."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites higher orders, organic growth and a raised revenue outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1809987-0001628280-26-067591.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1809987/000162828026067591/a2026-10x27exhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1809987/000162828026067591/0001628280-26-067591-index.htm",
+    "saved_at": "2026-11-04T06:08:22+08:00"
+  },
+  {
+    "cik": "1050446",
+    "company": "Strategy Inc",
+    "accession": "0001050446-26-000047",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 125.427,
+        "unit": "USD millions",
+        "quote": "Total revenues | 125,427 | 128,691"
+      },
+      "operating_income": {
+        "value": 20909.792,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | 20,909,792 | 3,890,842"
+      },
+      "net_income": {
+        "value": 19532.972,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | 19,532,972 | 2,785,024"
+      },
+      "diluted_eps": {
+        "value": 44.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per common share (1) | $ | 44.75 | $ | 8.42"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CFO says operating income was the largest in the company's history.",
+        "quote": "Q3 operating income of $21 billion was the largest ever in Strategy’s history."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The release says total revenues fell 3% year over year.",
+        "quote": "Total revenues for the third quarter of 2026 were $125.4 million, compared to total revenues of $128.7 million for the third quarter of 2025, a 3% decrease year-over-year."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The release says the operating income includes a gain on digital assets.",
+        "quote": "Operating income for the third quarter of 2026 includes a gain on the Company’s digital assets of $20.91 billion"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO highlight record operating income, capital raised and bitcoin growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1050446-0001050446-26-000047.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000047/mstr-20261029x8kxex9912.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000047/0001050446-26-000047-index.htm",
+    "saved_at": "2026-11-04T06:08:22+08:00"
   }
 ]

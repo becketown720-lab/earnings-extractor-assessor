@@ -511,5 +511,137 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000047/mstr-20261029x8kxex9912.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000047/0001050446-26-000047-index.htm",
     "saved_at": "2026-11-04T06:08:22+08:00"
+  },
+  {
+    "cik": "1100682",
+    "company": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+    "accession": "0001100682-26-000156",
+    "release_date": "2026-11-04",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 982.732,
+        "unit": "USD millions",
+        "quote": "Total revenue | 982,732"
+      },
+      "operating_income": {
+        "value": 202.638,
+        "unit": "USD millions",
+        "quote": "Operating income | 202,638"
+      },
+      "net_income": {
+        "value": 333.067,
+        "unit": "USD millions",
+        "quote": "Net income attributable to common shareholders | $ | 333,067"
+      },
+      "diluted_eps": {
+        "value": 6.86,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 6.86"
+      }
+    },
+    "guidance": {
+      "text": "The company raised its 2026 outlook for reported revenue to a fall of 2.0% to 1.5%, from a fall of 3.5% to 2.5% before.",
+      "quote": "Revenue growth/(decrease), reported | (2.0)% - (1.5)% | (3.5)% - (2.5)%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue and earnings per share beat the company's prior expectations.",
+        "quote": "Revenue and earnings per share outperformed our prior expectations, DSA net bookings and proposals continued to show robust, year-over-year increases"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Revenue fell 2.2% to $982.7 million because of the May 2026 divestitures, while organic revenue rose 4.7%.",
+        "quote": "Revenue was $982.7 million, a decrease of 2.2% from $1,004.9 million in the third quarter of 2025, primarily driven by the impact of the May 2026 divestitures. On an organic basis, revenue increased 4.7%"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The GAAP operating margin rose to 20.6% from 13.3%, mainly because of a $44.6 million reversal of tax reserves in DSA.",
+        "quote": "In the third quarter of 2026, the GAAP operating margin was 20.6%, compared to 13.3% in the third quarter of 2025, driven primarily by a benefit of $44.6 million in the DSA segment from the reversal of acquired non-income tax reserves"
+      },
+      {
+        "id": "M4",
+        "topic": "profit",
+        "claim": "GAAP net income and EPS included a $245.6 million, or $5.06 per share, benefit from reversing acquired tax reserves.",
+        "quote": "The GAAP net income and earnings per share increases included a benefit totaling $245.6 million, or $5.06 per share, associated with the reversal of acquired tax reserves"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the company was encouraged by strong demand and that results beat its prior expectations, and the company raised its guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1100682-0001100682-26-000156.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000156/crl3q26earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000156/0001100682-26-000156-index.htm",
+    "saved_at": "2026-11-11T06:13:51+08:00"
+  },
+  {
+    "cik": "2080921",
+    "company": "ARKO Petroleum Corp.",
+    "accession": "0001193125-26-447170",
+    "release_date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1888.8,
+        "unit": "USD millions",
+        "quote": "Total revenues | 1,888,800 | 1,484,189 | 5,071,753 | 4,274,899"
+      },
+      "operating_income": {
+        "value": 25.23,
+        "unit": "USD millions",
+        "quote": "Operating income | 25,230 | 24,569 | 68,863 | 64,162"
+      },
+      "net_income": {
+        "value": 13.339,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 13,339 | $ | 10,100 | $ | 33,657 | $ | 24,661"
+      },
+      "diluted_eps": {
+        "value": 0.28,
+        "unit": "USD per share",
+        "quote": "Net income per share – diluted | $ | 0.28"
+      }
+    },
+    "guidance": {
+      "text": "The company raised its full-year 2026 Adjusted EBITDA guidance to a range of $156 million to $157 million.",
+      "quote": "the Company is raising its full year 2026 Adjusted EBITDA guidance and currently expects Adjusted EBITDA to be in the range of $156 million to $157 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Net income for the quarter rose to $13.3 million from $10.1 million a year earlier.",
+        "quote": "Net income for the quarter increased to $13.3 million compared to $10.1 million."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says Adjusted EBITDA and Discretionary Cash Flow grew year over year.",
+        "quote": "Adjusted EBITDA and Discretionary Cash Flow grew year over year, which we believe demonstrated the durability of our platform, the stability of its cash generation"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is raising its full-year Adjusted EBITDA guidance, partly because of the expected closing of USPP.",
+        "quote": "Based on year-to-date performance, our outlook for the balance of the year and the expected closing of USPP, we are raising our full-year 2026 Adjusted EBITDA guidance."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says results reinforce the strategy and show durability, and the company is raising its guidance, while noting a volatile market."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2080921-0001193125-26-447170.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2080921/000119312526447170/apc-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2080921/000119312526447170/0001193125-26-447170-index.htm",
+    "saved_at": "2026-11-11T06:13:51+08:00"
   }
 ]

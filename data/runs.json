@@ -2233,5 +2233,86 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-11T06:38:03+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-11-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 3,
+      "total": 3,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 3,
+      "checked": 3,
+      "rechecks": 1,
+      "confirmed": 6,
+      "mismatch": 0,
+      "cannot_check": 6
+    },
+    "companies": [
+      {
+        "cik": "1059142",
+        "company": "Greystone Housing Impact Investors LP",
+        "accession": "0001193125-26-428987",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "1100682",
+        "company": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+        "accession": "0001100682-26-000156",
+        "period_label": "quarter ended 26 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "2080921",
+        "company": "ARKO Petroleum Corp.",
+        "accession": "0001193125-26-447170",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 3 extractions: 6 figures confirmed, 0 mismatches, 6 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-11T06:13:51+08:00",
+      "watch_brief": "briefs/2026-11-11-watch.md",
+      "brief_says": 1377,
+      "saved_for_run": 1377,
+      "match": true
+    },
+    "offline": false
   }
 ]

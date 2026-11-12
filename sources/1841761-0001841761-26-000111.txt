@@ -1,0 +1,189 @@
+Company: Grove Collaborative Holdings, Inc. (CIK 1841761)
+Accession: 0001841761-26-000111
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/1841761/000184176126000111/exhibit991-3q2026earningsr.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1841761/000184176126000111/0001841761-26-000111-index.htm
+Saved: 2026-11-13T06:09:01+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exhibit991-3q2026earningsr.htm EX-99.1
+Exhibit 99.1
+Grove Announces Third Quarter 2026 Financial Results
+SAN FRANCISCO, CA — November 10, 2026 — Grove Collaborative Holdings, Inc. (NYSE: GROV) (“Grove” or the “Company”), the world’s first plastic neutral retailer and a leading sustainable consumer products company, certified B Corporation, and Public Benefit Corporation, today reported financial results for its fiscal third quarter ended September 30, 2026.
+Key Third Quarter 2026 Financial Highlights:
+●Total Net Revenue was $36.8 million, down 15.8% year-over-year, but up 0.7% sequentially — the second consecutive quarter of sequential Net Revenue growth.
+●Adjusted EBITDA was positive $1.4 million, compared to negative $1.2 million in the same period last year, the fourth consecutive quarter of positive Adjusted EBITDA.*
+●Net Income was $0.1 million, compared to a Net Loss of $3.0 million in the same period last year.*
+●Operating Cash Flow was positive $0.2 million, compared to negative $1.0 million in the same period last year.*
+●Narrowing full-year guidance to Net Revenue of approximately $144 million to $146 million (previously $142.5 million to $152.5 million) and Adjusted EBITDA of approximately $1 million to $2 million* (previously breakeven to positive low single digit millions).
+*Adjusted EBITDA, Net Income and Operating Cash Flow for the third quarter of 2026, includes the benefit of a $1.2 million refund of previously paid tariffs received in the third quarter, which reduced cost of goods sold. Tariff expense was included in Adjusted EBITDA when it was incurred, and the Company therefore has not adjusted the refund out of Adjusted EBITDA.
+“Third quarter results reflect the operating discipline we have built over the past several quarters. Net Revenue grew sequentially for the second consecutive quarter to $36.8 million. We also delivered positive Adjusted EBITDA for the fourth consecutive quarter, and delivered positive Adjusted EBITDA and net income in the same quarter for the first time since becoming a publicly-traded company,” said Jeff Yurcisin, Chief Executive Officer of Grove Collaborative. “Our focus remains on returning Grove to revenue growth while building a durable, profitable business grounded in customer trust that rests on curation, ingredient standards, and product vetting that no ecommerce player rivals. We have delivered a
+meaningfully improved customer experience, a new subscription experience, and a larger curated offering of healthier-home categories through our dropship capabilities. We are doing this with human health at the center, building the trusted destination for families who care about what comes into their home while maintaining the expense discipline we have demonstrated in prior quarters.”
+Third Quarter 2026 Financial Results
+(All comparisons are versus the quarter ended September 30, 2025 except where otherwise noted)
+Net Revenue was $36.8 million for the quarter ended September 30, 2026, a decline of 15.8% year-over-year, but an increase of 0.7% compared to the second quarter of 2026. The year-over-year decline was primarily driven by a smaller active customer base than a year ago, reflecting lower advertising investment over the past year, and impact from the 2025 disruptions on its ecommerce platform. The effects of the 2025 platform disruptions and lower advertising investment in prior periods are expected to have a diminishing impact on year-over-year comparisons in 2027. The sequential increase was driven by QVC revenue, including $1.2 million from a Today’s Special Value program, partially offset by a slight decline in DTC net revenue.
+Gross Margin was 55.8%, an increase of 250 basis points compared to 53.3% in the third quarter of 2025. The increase was driven primarily by the tariff refund and more targeted promotional spend, partially offset by a larger mix of QVC revenue during the quarter, which contributed a lower margin compared to the Company’s DTC business.
+Operating Expenses were $20.3 million, a decrease of 22.1% compared to $26.1 million in the prior-year period. The decline reflects lower fulfillment costs driven by lower order volume and lower outbound shipping rates, lower personnel-related expenses from reduced headcount, and reduced advertising spend.
+Net Income was $0.1 million, or 0.3% Net Income margin, compared to a net loss of $3.0 million, or (6.8%) Net Loss margin, in the prior-year period. The year-over-year improvement reflects lower operating expenses and the tariff refund, offset by the decline in revenue.
+Adjusted EBITDA was positive $1.4 million, or 3.7% margin, compared to negative $1.2 million, or (2.7%) margin, in the prior-year period. Adjusted EBITDA includes the $1.2 million tariff refund. This
+marks the fourth consecutive quarter of positive Adjusted EBITDA and reflects continued operating discipline as the Company invests in the customer experience.
+Operating Cash Flow was positive $0.2 million for the quarter, reflecting positive net income net of non-cash expenses, inclusive of the tariff refund, partially offset by a net use of working capital, primarily from the timing of inventory purchases, as an increase in inventory was largely offset by an increase in accounts payable. This compares to negative $1.0 million in the prior-year period.
+Cash, Cash Equivalents, and Restricted Cash totaled $11.1 million as of September 30, 2026, down from $11.4 million as of June 30, 2026, primarily reflecting capitalized expenditures as a result of continued investment in the Company’s ecommerce platform enhancements and payments on financing agreements, partially offset by positive operating cash flow.
+Third Quarter 2026 Key Metrics:
+Three Months Ended September 30,
+(in thousands, except DTC Net Revenue Per Order) | 2026 | 2025
+Financial and Operating Data
+DTC Total Orders | 473 | 619
+DTC Active Customers | 458 | 660
+DTC Net Revenue Per Order | $ | 70.85 | $ | 66.76
+Direct to Consumer (DTC) Total Orders were 473,000, a decline of 23.6% year-over-year. The decrease was primarily driven by a smaller active customer base than a year ago. The lower active customer base was partially offset by an increase in the frequency of orders per active customer in the quarter.
+DTC Active Customers – defined as the number of customers that have placed an order in the trailing twelve months – totaled 458,000 as of September 30, 2026, a decrease of 30.6% year-over-year. The decline reflects lower advertising investment and customer attrition associated with the 2025 ecommerce platform disruptions.
+DTC Net Revenue Per Order was $70.85, an increase of 6.1% year-over-year. The improvement was driven primarily by continued efficiency in promotional spend following the launch of the Company’s new loyalty program in the fourth quarter of 2025 and larger mix of higher-priced items in customer
+orders, reflecting the Company’s continued category expansion into higher priced assortment, in addition to an increase in shipping revenue per order.
+Plastic Intensity1 – measured as pounds of plastic per $100 in net revenue across all online and retail sales — was 0.86 pounds in the third quarter of 2026, improving from 0.94 pounds in the third quarter of 2025.
+2026 Financial Outlook:
+For the twelve-month period ending December 31, 2026, Grove has narrowed its full-year guidance.
+●The Company now expects full-year net revenue of approximately $144 million to $146 million, within our prior guidance of $142.5 million to $152.5 million, and Adjusted EBITDA of approximately $1 million to $2 million, within prior guidance of breakeven to positive low single digit millions.
+●The Company previously expected sequential net revenue improvement in each of the remaining quarters of 2026. The Company now expects fourth quarter net revenue to be modestly below the third quarter. Third quarter net revenue included $1.2 million from a Today’s Special Value program on QVC, and the Company does not expect a comparable program in the fourth quarter. The Company expects its DTC channel to be approximately flat in the fourth quarter compared to the third quarter reflecting continued stabilization of its DTC business.
+Webcast and Conference Call Information:
+The Company will host an investor conference call and webcast to review these financial results at 5:00pm ET / 2:00pm PT on the date of this press release. The webcast can be accessed at https://investors.grove.co/. The conference call can be accessed by calling 877-413-7205. International callers may dial +1 201-689-8537. A replay of the call will be available until December 8, 2026 and can be accessed by dialing 877-660-6853 or 201-612-7415, access ID: 13763421. The webcast will remain available on the Company’s investor relations website for 30 days following the webcast.
+About Grove Collaborative Holdings, Inc.
+Grove Collaborative Holdings, Inc. (NYSE: GROV) is the one-stop online destination for everyday essentials that create a healthier home and planet. Explore thousands of thoughtfully vetted products for every room and everyone in your home, including household cleaning, personal care, health and wellness, laundry, clean beauty, kitchen, pantry, kids, baby, pet care, and beyond. Everything Grove sells meets a higher standard — from health to sustainability and performance — so you get a great value without compromising your values. As a B Corp and Public Benefit Corporation, Grove goes beyond selling products: every order is carbon neutral, supports plastic waste cleanup initiatives, and lets you see and track the positive impact of your choices. Shopping with purpose starts at Grove.com.
+Forward-Looking Statements
+This press release contains "forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements include, but are not limited to, our building a durable, profitable business grounded in customer trust that rests on unrivaled curation, ingredient standards and product vetting; guidance for 2026, including guidance for full year 2026 net revenue and Adjusted EBITDA; fourth quarter net revenue being modestly below the third quarter; and the expectation that the DTC channel will be approximately flat in the fourth quarter compared to the third quarter reflecting continued stabilization of its DTC business. The forward-looking statements contained in this press release are based on Grove’s current expectations and beliefs in light of the Company’s experience and perception of historical trends, current conditions and expected future developments and their potential effects on the Company as well as other factors believed to be appropriate under the circumstances. There can be no assurance that future developments affecting the Company will be those that have been anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond the Company’s control) or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements, including, changes in business, market, financial, political and legal conditions; legal and regulatory matters and developments; risks relating to the uncertainty of the projected financial information; Grove’s ability to successfully expand its business; competition; risks relating to tariffs, inflation and interest rates; effectiveness of the Company’s ecommerce platform and selling and marketing efforts; demand for Grove products and other brands that it sells and those factors discussed in documents filed, or to be filed, with the U.S. Securities and Exchange Commission. Should one or more of these risks or uncertainties materialize, or should any assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. All forward-looking statements in this press release
+are made as of the date hereof, based on information available to Grove as of the date hereof, and Grove assumes no obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+Non-GAAP Financial Measures
+Some of the financial information and data contained in this press release, such as Adjusted EBITDA and Adjusted EBITDA margin, have not been prepared in accordance with United States generally accepted accounting principles (“GAAP”). These non-GAAP financial measures, and other measures that are calculated using such non-GAAP measures, are an addition to, and not a substitute for or superior to, measures of financial performance prepared in accordance with GAAP and should not be considered as an alternative to revenue, operating income, profit before tax, net income or any other performance measures derived in accordance with GAAP. Investors should not consider the non-GAAP financial measures in isolation from, or as a substitute for, GAAP measures. A reconciliation of historical Adjusted EBITDA to Net Income is provided in the tables at the end of this press release. Reconciliations of projected Adjusted EBITDA and projected Adjusted EBITDA Margin to the closest corresponding GAAP measures are not available without unreasonable effort on a forward-looking basis due to the high variability, complexity, and low visibility with respect to the charges excluded from these non-GAAP measures, such as the impact of depreciation and amortization of fixed assets, amortization of internal use software, the effects of net interest expense (income), other expense (income), and non-cash stock based compensation expense. Grove believes these non-GAAP measures of financial results, including on a forward-looking basis, provide useful information to management and investors regarding certain financial and business trends relating to Grove’s financial condition and results of operations. Grove’s management uses these non-GAAP measures for trend analyses and for budgeting and planning purposes. Grove believes that the use of these non-GAAP financial measures provides an additional tool for investors to use in evaluating projected operating results and trends in and in comparing Grove’s financial measures with other similar companies, many of which present similar non-GAAP financial measures to investors. Management of Grove does not consider these non-GAAP measures in isolation or as an alternative to financial measures determined in accordance with GAAP. There are a number of limitations related to the use of these non-GAAP measures. Other companies may calculate non-GAAP measures differently, or may use other measures to calculate their financial performance, and therefore Grove’s non-GAAP measures may not be directly comparable to similarly titled measures of other companies.
+Grove calculates Adjusted EBITDA as net loss, adjusted to exclude: stock-based compensation expense; depreciation and amortization; changes in fair values of derivative liabilities; interest income; interest expense; restructuring costs; transaction related costs related to certain strategic merger & acquisition projects; provision for income taxes and certain litigation and legal settlement expenses that the Company does not consider representative of its underlying operations. We define Adjusted EBITDA Margin as Adjusted EBITDA divided by net revenue. Because Adjusted EBITDA excludes these elements that are otherwise included in the Company’s GAAP financial results, this measure has limitations when compared to net loss determined in accordance with GAAP. Further, Adjusted EBITDA is not necessarily comparable to similarly titled measures used by other companies. For these reasons, investors should not consider Adjusted EBITDA in isolation from, or as a substitute for, net loss determined in accordance with GAAP.
+Investor Relations Contact
+ir@grove.co
+Media Relations Contact
+pr@grove.co
+1 Grove defines plastic intensity as pounds of plastic used per $100 in revenue as a way to hold itself accountable for the pace at which it decouples revenue from the use of plastic. To calculate plastic intensity, Grove defines "plastic" as any of the following materials within both products and packaging: plastic resin codes #1-7 (from the ASTM International Resin Identification Coding System), inclusive of polyvinyl alcohol (PVA, PVOH, PVAl), silicone, bioplastics, and any plastic liners, coatings, and resins.
+1
+Grove Collaborative Holdings, Inc.
+Condensed Consolidated Balance Sheets
+(Unaudited)
+(In thousands)
+September 30, 2026 | December 31, 2025
+Assets
+Current assets:
+Cash and cash equivalents | $ | 7,988 | $ | 8,490
+Restricted cash, current | 2,165 | 2,300
+Inventory | 22,183 | 18,421
+Prepaid expenses and other current assets | 4,027 | 5,492
+Total current assets | 36,363 | 34,703
+Restricted cash, noncurrent | 902 | 1,002
+Property and equipment, net | 3,388 | 3,653
+Intangible assets, net | 1,998 | 2,302
+Operating lease right-of-use assets | 8,123 | 9,535
+Other long-term assets | 1,532 | 1,899
+Total assets | $ | 52,306 | $ | 53,094
+Liabilities and Stockholders’ Deficit
+Current liabilities:
+Accounts payable | $ | 8,817 | $ | 8,828
+Accrued expenses | 9,119 | 9,476
+Deferred revenue | 6,578 | 5,033
+Debt, current | — | 800
+Operating lease liabilities, current | 3,221 | 2,895
+Other current liabilities | 903 | 665
+Total current liabilities | 28,638 | 27,697
+Debt, noncurrent | 7,500 | 6,700
+Operating lease liabilities, noncurrent | 7,619 | 10,053
+Derivative liabilities | 642 | 871
+Total liabilities | 44,399 | 45,321
+Redeemable convertible preferred stock | 24,772 | 24,772
+Stockholders’ deficit:
+Common stock | 4 | 4
+Additional paid-in capital | 645,187 | 643,226
+Accumulated deficit | (662,056) | (660,229)
+Total stockholders’ deficit | (16,865) | (16,999)
+Total liabilities, redeemable convertible preferred stock and stockholders’ deficit | $ | 52,306 | $ | 53,094
+2
+Grove Collaborative Holdings, Inc.
+Condensed Consolidated Statements of Operations
+(Unaudited)
+(In thousands, except share and per share amounts)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue, net | $ | 36,821 | $ | 43,734 | $ | 109,614 | $ | 131,307
+Cost of goods sold | 16,268 | 20,412 | 49,621 | 60,526
+Gross profit | 20,553 | 23,322 | 59,993 | 70,781
+Operating expenses:
+Advertising | 1,789 | 3,154 | 4,186 | 8,683
+Product development | 1,486 | 1,626 | 4,434 | 5,612
+Selling, general and administrative | 17,033 | 21,273 | 52,812 | 66,215
+Operating income (loss) | 245 | (2,731) | (1,439) | (9,729)
+Non-operating expenses (income):
+Interest expense | 280 | 292 | 826 | 943
+Changes in fair value of derivative liabilities | (58) | 25 | (229) | (189)
+Other income, net | (84) | (94) | (230) | (375)
+Total non-operating expenses, net | 138 | 223 | 367 | 379
+Income (loss) before provision for income taxes | 107 | (2,954) | (1,806) | (10,108)
+Provision for income taxes | 5 | 6 | 21 | 25
+Net income (loss) | $ | 102 | $ | (2,960) | $ | (1,827) | $ | (10,133)
+Less: Accumulated dividends on redeemable convertible preferred stock | (375) | (375) | (1,125) | (1,125)
+Net loss attributable to common stockholders, basic and diluted | $ | (273) | $ | (3,335) | $ | (2,952) | $ | (11,258)
+Net loss per share attributable to common stockholders, basic and diluted | $ | (0.01) | $ | (0.08) | $ | (0.07) | $ | (0.29)
+Weighted-average shares used in computing net loss per share attributable to common stockholders, basic and diluted | 41,019,812 | 39,377,394 | 40,547,774 | 38,804,536
+3
+Grove Collaborative Holdings, Inc.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+(In thousands)
+Nine Months Ended September 30,
+2026 | 2025
+Cash Flows from Operating Activities
+Net loss | $ | (1,827) | $ | (10,133)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Stock-based compensation expense | 2,351 | 3,456
+Depreciation and amortization | 1,195 | 1,287
+Changes in fair value of derivative liabilities | (229) | (189)
+Non-cash interest expense | 160 | 270
+Inventory write-down | — | (577)
+Other non-cash expenses | 20 | 8
+Changes in operating assets and liabilities:
+Inventory | (3,762) | 1,989
+Prepaids and other assets | 2,355 | 955
+Accounts payable | (68) | (436)
+Accrued expenses | (232) | (2,720)
+Deferred revenue | 1,545 | (1,207)
+Operating lease right-of-use assets and liabilities | (696) | 579
+Other liabilities | 26 | (207)
+Net cash provided by (used in) operating activities | 838 | (6,925)
+Cash Flows from Investing Activities
+Cash paid for acquisitions | — | (2,848)
+Proceeds from sale of property and equipment | — | 13
+Purchase of property and equipment | (714) | (1,133)
+Net cash used in investing activities | (714) | (3,968)
+Cash Flows from Financing Activities
+Payment of issuance costs related to preferred stock and SEPA | — | (18)
+Payment on finance agreement | (471) | (118)
+Payments related to stock-based award activities, net | (507) | (1,063)
+Proceeds from issuance under employee stock purchase plan | 117 | 141
+Payment of debt modification costs | — | (44)
+Net cash used in financing activities | (861) | (1,102)
+Net decrease in cash, cash equivalents and restricted cash | (737) | (11,995)
+Cash, cash equivalents and restricted cash at beginning of period | 11,792 | 24,304
+Cash, cash equivalents and restricted cash at end of period | $ | 11,055 | $ | 12,309
+4
+Grove Collaborative Holdings, Inc.
+Non-GAAP Financial Measures
+(Unaudited)
+(In thousands, except percentages)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Reconciliation of net income (loss) to Adjusted EBITDA | (in thousands, except percentages)
+Net income (loss) | $ | 102 | $ | (2,960) | $ | (1,827) | $ | (10,133)
+Stock-based compensation | 700 | 1,109 | 2,351 | 3,456
+Depreciation and amortization | 405 | 421 | 1,195 | 1,287
+Changes in fair value of derivative liabilities | (58) | 25 | (229) | (189)
+Interest income | (84) | (94) | (230) | (375)
+Interest expense | 280 | 292 | 826 | 943
+Transaction related costs | — | — | — | 1,275
+Provision for income taxes | 5 | 6 | 21 | 25
+Total Adjusted EBITDA | $ | 1,350 | $ | (1,201) | $ | 2,107 | $ | (3,711)
+Net income (loss) margin | 0.3 | % | (6.8) | % | (1.7) | % | (7.7) | %
+Adjusted EBITDA margin (loss) | 3.7 | % | (2.7) | % | 1.9 | % | (2.8) | %
+Source: Grove Collaborative Holdings, Inc.
+5

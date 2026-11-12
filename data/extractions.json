@@ -643,5 +643,133 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/2080921/000119312526447170/apc-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/2080921/000119312526447170/0001193125-26-447170-index.htm",
     "saved_at": "2026-11-11T06:13:51+08:00"
+  },
+  {
+    "cik": "1422143",
+    "company": "Kura Oncology, Inc.",
+    "accession": "0001193125-26-455416",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 22.839,
+        "unit": "USD millions",
+        "quote": "Total revenue | 22,839"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -70.215,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (70,215"
+      },
+      "diluted_eps": {
+        "value": -0.78,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (0.78"
+      }
+    },
+    "guidance": {
+      "text": "Kura now expects 2026 collaboration revenue of $40 million to $45 million, and keeps $90 million to $110 million for each of 2027 and 2028.",
+      "quote": "Kura has updated its 2026 collaboration revenue guidance to $40 million to $45 million for 2026 and is maintaining guidance of $90 million to $110 million in each of 2027 and 2028."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says KOMZIFTI revenue grew 53% on the previous quarter, with 30% more new patient starts.",
+        "quote": "KOMZIFTI delivered strong commercial performance this quarter, with 53% sequential revenue growth, a 30% increase in new patients starts, and continued majority share of new patient starts"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the results give a strong foundation for moving ziftomenib into frontline AML.",
+        "quote": "We believe these results demonstrate the growing commercial potential of KOMZIFTI and provide a strong foundation as we advance ziftomenib into the substantially larger frontline AML opportunity."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says a strengthened financial position leaves the company well placed to carry out its priorities.",
+        "quote": "With a strengthened financial position, we believe we are well positioned to execute on these priorities and build two differentiated precision oncology franchises."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of strong commercial performance, a strong foundation and a strengthened financial position."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1422143-0001193125-26-455416.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1422143/000119312526455416/kura-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1422143/000119312526455416/0001193125-26-455416-index.htm",
+    "saved_at": "2026-11-13T06:09:01+08:00"
+  },
+  {
+    "cik": "1841761",
+    "company": "Grove Collaborative Holdings, Inc.",
+    "accession": "0001841761-26-000111",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 36.821,
+        "unit": "USD millions",
+        "quote": "Revenue, net | $ | 36,821"
+      },
+      "operating_income": {
+        "value": 0.245,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | 245"
+      },
+      "net_income": {
+        "value": 0.102,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | 102"
+      },
+      "diluted_eps": {
+        "value": -0.01,
+        "unit": "USD per share",
+        "quote": "Net loss per share attributable to common stockholders, basic and diluted | $ | (0.01)"
+      }
+    },
+    "guidance": {
+      "text": "Grove now expects 2026 net revenue of about $144 million to $146 million and Adjusted EBITDA of about $1 million to $2 million.",
+      "quote": "The Company now expects full-year net revenue of approximately $144 million to $146 million, within our prior guidance of $142.5 million to $152.5 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says net revenue grew on the previous quarter for the second quarter running, to $36.8 million.",
+        "quote": "Net Revenue grew sequentially for the second consecutive quarter to $36.8 million."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the company had positive Adjusted EBITDA and net income in the same quarter for the first time as a listed company.",
+        "quote": "delivered positive Adjusted EBITDA and net income in the same quarter for the first time since becoming a publicly-traded company"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company now expects fourth-quarter net revenue to be modestly below the third quarter.",
+        "quote": "The Company now expects fourth quarter net revenue to be modestly below the third quarter."
+      },
+      {
+        "id": "M4",
+        "topic": "costs",
+        "claim": "The CEO says the company keeps the expense discipline it has shown in earlier quarters.",
+        "quote": "while maintaining the expense discipline we have demonstrated in prior quarters"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses discipline and a first profitable quarter, while the outlook says fourth-quarter revenue will dip below the third."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1841761-0001841761-26-000111.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1841761/000184176126000111/exhibit991-3q2026earningsr.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1841761/000184176126000111/0001841761-26-000111-index.htm",
+    "saved_at": "2026-11-13T06:09:01+08:00"
   }
 ]

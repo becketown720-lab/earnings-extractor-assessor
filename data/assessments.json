@@ -4928,5 +4928,432 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-11T06:38:03+08:00"
+  },
+  {
+    "accession": "0001193125-26-455416",
+    "cik": "1422143",
+    "company": "Kura Oncology, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The quote \"Total revenue | 22,839\" is in the release and holds 22.839 USD millions, but the 10-Q figures could not be read today (data.sec.gov answered 403)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release gives no operating income line, only total operating expenses of 97,497 thousand."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The quote \"Net loss | $ | (70,215\" is in the release and holds -70.215 USD millions, but the 10-Q figures could not be read today (data.sec.gov answered 403)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The quote holds -0.78 USD per share and is in the release, but the 10-Q figures could not be read today (data.sec.gov answered 403)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All three quotes are in the release and hold their numbers (22,839, -70,215, -0.78). The 10-Q check is still to come, as data.sec.gov could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Revenue, net income, EPS and the collaboration revenue guidance are there. Operating income is empty, but the release gives no operating income line, so that is not a fault."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, but M3 passes on a 'strengthened financial position' without the fall in cash from 667.2 to 492.1 million, and M1's 53% is product revenue only, not total revenue."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "22.839 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "-70.215 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "-0.78 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "No previous quarter is filed, and the release tables give only Q3 product revenue (13,922) and nine months (28,810), not Q2. Total revenue rose 10.1% on a year ago (22,839 vs 20,750), while collaboration revenue fell (8,917 vs 20,750)."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "A view on frontline AML cannot be tested by the numbers. Release tables: total revenue rose 10.1% on a year ago (22,839 vs 20,750) and the net loss narrowed to 70,215 from 74,116 thousand."
+      },
+      "M3": {
+        "verdict": "does not match",
+        "reason": "Release tables: cash and short-term investments fell to 492,096 from 667,240 thousand since 31 December 2025, and equity to 17,960 from 174,135. The words leave out that fall; the strength rests on expected milestones and Oberland financing."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "On the release tables, total revenue rose 10.1% on a year ago (22,839 vs 20,750) and the net loss narrowed (70,215 vs 74,116 thousand). Cash fell by 175.1 million since December, which the positive tone does not mention."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 22.839,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -70.215,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.78,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -307.4346512544333,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says KOMZIFTI revenue grew 53% on the previous quarter, with 30% more new patient starts.",
+        "quote": "KOMZIFTI delivered strong commercial performance this quarter, with 53% sequential revenue growth, a 30% increase in new patients starts, and continued majority share of new patient starts",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the results give a strong foundation for moving ziftomenib into frontline AML.",
+        "quote": "We believe these results demonstrate the growing commercial potential of KOMZIFTI and provide a strong foundation as we advance ziftomenib into the substantially larger frontline AML opportunity.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says a strengthened financial position leaves the company well placed to carry out its priorities.",
+        "quote": "With a strengthened financial position, we believe we are well positioned to execute on these priorities and build two differentiated precision oncology franchises.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of strong commercial performance, a strong foundation and a strengthened financial position."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-13T06:38:07+08:00"
+  },
+  {
+    "accession": "0001841761-26-000111",
+    "cik": "1841761",
+    "company": "Grove Collaborative Holdings, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The quote \"Revenue, net | $ | 36,821\" is in the release and holds 36.821 USD millions, but the 10-Q figures could not be read today (data.sec.gov answered 403)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The quote \"Operating income (loss) | 245\" is in the release and holds 0.245 USD millions, but the 10-Q figures could not be read today (data.sec.gov answered 403)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The quote \"Net income (loss) | $ | 102\" is in the release and holds 0.102 USD millions, but the 10-Q figures could not be read today (data.sec.gov answered 403)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The quote holds -0.01 USD per share (after 375 thousand of preferred dividends) and is in the release, but the 10-Q figures could not be read today (data.sec.gov answered 403)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers (36,821, 245, 102, -0.01). The 10-Q check is still to come, as data.sec.gov could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there, with the full-year revenue and Adjusted EBITDA guidance and its quote."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, but it does not flag that the 1.2 million tariff refund exceeds the 0.1 million net income, nor why EPS is -0.01 while net income is positive (375 thousand preferred dividends)."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "36.821 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "operating_income": {
+        "extracted": "0.245 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "net_income": {
+        "extracted": "0.102 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "-0.01 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "does not match",
+        "reason": "No previous quarter is filed and the release tables do not give Q2, so the 0.7% rise cannot be tested. The words leave out that revenue fell 15.8% on a year ago (36,821 vs 43,734 thousand), a change a reader needs."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Reported: net income 102 vs (2,960) thousand a year ago, Adjusted EBITDA 1,350 vs (1,201), operating income 245. Note the release's 1.2 million tariff refund; without it net income would be about -1.1 million. 'First time' cannot be tested."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Consistent with the trend: revenue fell 15.8% on a year ago, Q3 held a 1.2 million QVC one-off, and the 144 to 146 million full-year guide less 109,614 thousand for nine months implies Q4 of about 34.4 to 36.4 million, below 36.8."
+      },
+      "M4": {
+        "verdict": "matches",
+        "reason": "Release tables: operating expenses fell 22.1% to 20,308 from 26,053 thousand, advertising to 1,789 from 3,154, and operating income turned to 245 from (2,731). Operating margin was 0.7%."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Balanced fits: net income 102 vs (2,960) thousand and operating expenses down 22.1%, against revenue down 15.8% on a year ago and a Q4 guide below Q3. The profit leans on a 1.2 million tariff refund."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 36.821,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 0.245,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 0.102,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.01,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 0.6653811683550148,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 0.27701583335596536,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says net revenue grew on the previous quarter for the second quarter running, to $36.8 million.",
+        "quote": "Net Revenue grew sequentially for the second consecutive quarter to $36.8 million.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the company had positive Adjusted EBITDA and net income in the same quarter for the first time as a listed company.",
+        "quote": "delivered positive Adjusted EBITDA and net income in the same quarter for the first time since becoming a publicly-traded company",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company now expects fourth-quarter net revenue to be modestly below the third quarter.",
+        "quote": "The Company now expects fourth quarter net revenue to be modestly below the third quarter.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "costs",
+        "claim": "The CEO says the company keeps the expense discipline it has shown in earlier quarters.",
+        "quote": "while maintaining the expense discipline we have demonstrated in prior quarters",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses discipline and a first profitable quarter, while the outlook says fourth-quarter revenue will dip below the third."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-13T06:38:07+08:00"
   }
 ]

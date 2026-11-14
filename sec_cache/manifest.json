@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T09:24:33+08:00",
+  "fetched_at": "2026-11-14T09:46:46+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,124 +16,124 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 405 ms"
+      "detail": "HTTP 200, 60 KB in 1202 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 702 ms"
+      "detail": "HTTP 200, 60 KB in 664 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 543 ms"
+      "detail": "HTTP 200, 60 KB in 287 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 490 ms"
+      "detail": "HTTP 200, 55 KB in 549 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 117 ms"
+      "detail": "HTTP 200, 148 KB in 85 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 122 ms"
+      "detail": "HTTP 200, 156 KB in 41 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 65 ms"
+      "detail": "HTTP 200, 154 KB in 39 ms"
     },
     {
-      "name": "DATA I/O CORP filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/351998/000110465926125817/index.json",
+      "name": "DeFi Development Corp. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000166/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 193 ms"
+      "detail": "HTTP 200, 3 KB in 60 ms"
     },
     {
-      "name": "DATA I/O CORP press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/351998/000110465926125817/daio-ex99d1.htm",
+      "name": "DeFi Development Corp. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000166/0001805526-26-000166-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 259 KB in 131 ms"
+      "detail": "HTTP 200, 16 KB in 66 ms"
     },
     {
-      "name": "HireQuest, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1140102/000143774926036560/index.json",
+      "name": "DeFi Development Corp. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000166/dfdv-exx991_3q26.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 37 ms"
+      "detail": "HTTP 200, 19 KB in 106 ms"
     },
     {
-      "name": "HireQuest, Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1140102/000143774926036560/0001437749-26-036560-index.htm",
+      "name": "Horizon Kinetics Holding Corp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/88000/000119312526458440/index.json",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 206 ms"
+      "detail": "HTTP 200, 1 KB in 40 ms"
     },
     {
-      "name": "HireQuest, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1140102/000143774926036560/ex_1044498.htm",
+      "name": "Horizon Kinetics Holding Corp press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/88000/000119312526458440/hkhc-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 173 KB in 142 ms"
+      "detail": "HTTP 200, 1,262 KB in 66 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 197 ms"
+      "detail": "HTTP 200, 3,174 KB in 70 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 188 ms"
+      "detail": "HTTP 200, 4,447 KB in 72 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 173 ms"
+      "detail": "HTTP 200, 2,745 KB in 57 ms"
     },
     {
-      "name": "DATA I/O CORP company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000351998.json",
+      "name": "DeFi Development Corp. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001805526.json",
       "ok": true,
-      "detail": "HTTP 200, 2,213 KB in 1081 ms"
+      "detail": "HTTP 200, 588 KB in 233 ms"
     },
     {
-      "name": "HireQuest, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001140102.json",
+      "name": "Horizon Kinetics Holding Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000088000.json",
       "ok": true,
-      "detail": "HTTP 200, 2,392 KB in 105 ms"
+      "detail": "HTTP 200, 2,042 KB in 279 ms"
     },
     {
       "name": "Kura Oncology, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001422143.json",
       "ok": true,
-      "detail": "HTTP 200, 1,583 KB in 331 ms"
+      "detail": "HTTP 200, 1,583 KB in 257 ms"
     },
     {
       "name": "Grove Collaborative Holdings, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001841761.json",
       "ok": true,
-      "detail": "HTTP 200, 877 KB in 99 ms"
+      "detail": "HTTP 200, 877 KB in 196 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000351998.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000088000.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001140102.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001422143.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001805526.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001841761.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -142,10 +142,10 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1140102_000143774926036560_0001437749-26-036560-index.htm",
-    "www.sec.gov_Archives_edgar_data_1140102_000143774926036560_ex_1044498.htm",
-    "www.sec.gov_Archives_edgar_data_1140102_000143774926036560_index.json",
-    "www.sec.gov_Archives_edgar_data_351998_000110465926125817_daio-ex99d1.htm",
-    "www.sec.gov_Archives_edgar_data_351998_000110465926125817_index.json"
+    "www.sec.gov_Archives_edgar_data_1805526_000180552626000166_0001805526-26-000166-index.htm",
+    "www.sec.gov_Archives_edgar_data_1805526_000180552626000166_dfdv-exx991_3q26.htm",
+    "www.sec.gov_Archives_edgar_data_1805526_000180552626000166_index.json",
+    "www.sec.gov_Archives_edgar_data_88000_000119312526458440_hkhc-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_88000_000119312526458440_index.json"
   ]
 }

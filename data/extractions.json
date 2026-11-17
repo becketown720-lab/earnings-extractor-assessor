@@ -771,5 +771,123 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1841761/000184176126000111/exhibit991-3q2026earningsr.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1841761/000184176126000111/0001841761-26-000111-index.htm",
     "saved_at": "2026-11-13T06:09:01+08:00"
+  },
+  {
+    "cik": "1855474",
+    "company": "AirJoule Technologies Corp.",
+    "accession": "0001855474-26-000003",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -5.45731,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (5,457,310"
+      },
+      "net_income": {
+        "value": -19.811226,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (19,811,226"
+      },
+      "diluted_eps": {
+        "value": -0.27,
+        "unit": "USD per share",
+        "quote": "Diluted net income (loss) per share, Class A common stock | $ | (0.27"
+      }
+    },
+    "guidance": {
+      "text": "The company gives a preliminary 2027 revenue outlook for BitSink of $15 million to $20 million.",
+      "quote": "AIRJ’s preliminary 2027 revenue outlook for BitSink is $15 million to $20 million, supported by $15 million in signed purchase orders and anticipated additional customer demand."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says BitSink's $15 million of signed purchase orders gives more near-term revenue visibility.",
+        "quote": "BitSink’s $15 million in signed purchase orders provides greater near-term revenue visibility, while our AirJoule products are moving through a more defined path to commercialization."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the company enters 2027 with more commercial traction than ever before.",
+        "quote": "we head into 2027 with more commercial traction than at any point in our history."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO calls the quarter an important step, citing the BitSink acquisition, the Kubota partnership and a narrower product roadmap.",
+        "quote": "This quarter marks an important step in AirJoule Technologies’ evolution. We expanded our commercial capabilities through the acquisition of BitSink, strengthened our market access through partnerships like Kubota"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter an important step and speaks of more commercial traction than at any point in the company's history."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1855474-0001855474-26-000003.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1855474/000185547426000003/airj-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1855474/000185547426000003/0001855474-26-000003-index.htm",
+    "saved_at": "2026-11-18T06:07:50+08:00"
+  },
+  {
+    "cik": "1463972",
+    "company": "Vuzix Corp",
+    "accession": "0001104659-26-127106",
+    "release_date": "2026-11-13",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 0.714,
+        "unit": "USD millions",
+        "quote": "Total Sales | 714 | 1,161"
+      },
+      "operating_income": {
+        "value": -8.477,
+        "unit": "USD millions",
+        "quote": "Loss from Operations | (8,477"
+      },
+      "net_income": {
+        "value": -8.386,
+        "unit": "USD millions",
+        "quote": "Net Loss | (8,386"
+      },
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "The company expects fourth-quarter operating expenses to be in the mid-$6 million range.",
+      "quote": "the Company expects fourth-quarter operating expenses to be in the mid-$6 million range."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says sales of established enterprise smart glasses fell year on year because of models discontinued at the end of 2025.",
+        "quote": "While sales of our established enterprise smart glasses products declined year-over-year, reflecting models we discontinued at the end of 2025, we are seeing new tangible progress in defense and other customer-directed opportunities."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says about $1.0 million of third-quarter consulting costs should not recur, and Causeway will advance without much more development spending.",
+        "quote": "The third quarter included approximately $1.0 million of external market assessment and consulting costs that we do not expect to recur, and we expect to continue advancing Causeway without a significant increase in development spending."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO believes current progress lays the foundation for stronger financial performance.",
+        "quote": "We believe the progress we are making today is laying the foundation for stronger financial performance and long-term shareholder value."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO notes that enterprise smart glasses sales declined, but is encouraged by progress in defense, OEM and Causeway."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1463972-0001104659-26-127106.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1463972/000110465926127106/tm2629748d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1463972/000110465926127106/0001104659-26-127106-index.htm",
+    "saved_at": "2026-11-18T06:07:50+08:00"
   }
 ]

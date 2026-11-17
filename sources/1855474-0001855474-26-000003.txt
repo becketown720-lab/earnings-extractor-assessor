@@ -1,0 +1,202 @@
+Company: AirJoule Technologies Corp. (CIK 1855474)
+Accession: 0001855474-26-000003
+Results released: 2026-11-16
+Press release: https://www.sec.gov/Archives/edgar/data/1855474/000185547426000003/airj-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1855474/000185547426000003/0001855474-26-000003-index.htm
+Saved: 2026-11-18T06:07:50+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 airj-ex99_1.htm EX-99.1
+Exhibit 99.1
+AirJoule Technologies Reports Third Quarter 2026 Results and Provides Preliminary 2027 BitSink Outlook
+•
+Completes BitSink Acquisition and Sharpens Commercial Focus on Highest-Value Applications for AirJouleTM Technology
+•
+Provides Preliminary 2027 BitSink Revenue Outlook of $15 Million to $20 Million
+•
+First AirJoule Prime System Delivered to Data4 Data Center in France
+Ronan, Mont., November 16, 2026 – AirJoule Technologies Corporation (NASDAQ: AIRJ) (“AIRJ” or the “Company”) today reported financial and operating results for the third quarter ended September 30, 2026.
+“This quarter marks an important step in AirJoule Technologies’ evolution. We expanded our commercial capabilities through the acquisition of BitSink, strengthened our market access through partnerships like Kubota, and sharpened our AirJoule product roadmap around our two highest-value platforms: Prime for water generation and Core DH for dehumidification,” said Matt Jore, Founder and Chief Executive Officer of AirJoule Technologies.
+“BitSink’s $15 million in signed purchase orders provides greater near-term revenue visibility, while our AirJoule products are moving through a more defined path to commercialization. We are deploying systems in customer environments, measuring real-world performance, and working to validate the economics that will support broader adoption. This progress is helping us focus on the markets where we can create the greatest customer value, and we head into 2027 with more commercial traction than at any point in our history.”
+Third Quarter and Recent Highlights
+•
+Acquired BitSink. AIRJ completed its acquisition of BitSink on September 10, 2026, adding data center infrastructure capabilities, manufacturing capacity, customer relationships and $15 million of signed purchase orders scheduled for delivery over the next year. BitSink recently moved into a new 65,000-square-foot manufacturing facility in Chesnee, South Carolina, and is setting up equipment and operations to meet expected demand in 2027. Founder Stan Dyshko continues to lead the business as Chief Operating Officer of BitSink.
+•
+Delivered the First AirJoule Prime System to Data4. AIRJ delivered the system to Data4’s Marcoussis data center campus in France. Installation and commissioning are planned over the coming weeks, with operation expected to begin by the end of 2026. The deployment is being done in collaboration with the Net Zero Innovation Hub for Data Centers, a technology and sustainability consortium led by Data4, Microsoft, Google, APL, Danfoss, Vertiv, and Schneider Electric.
+•
+Announced Exclusive Sales Agreement with Kubota Corporation (“Kubota”) for Residential Development and Commenced Initial Pilot Projects. AIRJ commenced its Kubota partnership with the delivery of an AirJoule Core AWG system to Irvine, California, where it is being used to demonstrate the AirJoule technology for Kubota’s residential developer customers. The system was commissioned in October 2026, and a second AirJoule Core AWG unit has been delivered to Corpus Christi, Texas, where commissioning is expected in December 2026.
+•
+Sharpened AirJoule Product Roadmap Around Prime Water Generation and Core DH Dehumidification. AIRJ focused its AirJoule product development and commercialization efforts on two purpose-built platforms: Prime for atmospheric water generation and Core DH for energy-efficient dehumidification. This strategy builds on learnings from earlier Core AWG deployments, which will continue to support customer demonstrations and performance validation. The refined roadmap is designed to improve product economics and accelerate progress toward repeatable commercial adoption.
+BitSink Acquisition
+•
+Acquisition Completed: On September 10, 2026, AIRJ acquired 100% of BitSink, a U.S.-based designer and manufacturer of modular data center infrastructure, liquid cooling systems and electrical equipment for artificial intelligence (“AI”) and high-performance computing (“HPC”) workloads. Upfront consideration was $18 million in cash and $9 million in AIRJ common stock, with no debt. The transaction includes up to $40 million of additional consideration, payable solely in AIRJ common stock and tied to BitSink revenue milestones of $30.0 million in 2027 and $63.6 million in 2028, aligning the majority of potential consideration with future performance.
+•
+Strategic Rationale: AI and HPC are changing data center infrastructure requirements, and cooling, power infrastructure and water have become three of the most critical constraints on new capacity. BitSink adds an established and profitable operating business with more than 220 megawatts (“MW”) of cooling and power equipment deployed across North America with 99% uptime, approximately 40% historical gross margins, a U.S. manufacturing base that includes a 65,000-square-foot facility in Chesnee, South Carolina, and $15 million of signed purchase orders to be delivered over the next year.
+•
+Positioned in Modular AI Infrastructure: BitSink’s integrated modular blocks, dry coolers, switchboards and power distribution units serve modular and smaller AI and HPC sites, which can be brought online faster and face fewer regulatory and permitting restrictions compared to large greenfield campuses.
+1
+•
+NEXUS 3.0 Modular AI Infrastructure: BitSink’s $15 million of purchase orders are for NEXUS 3.0, its modular AI infrastructure block. Each block delivers 3.0 MW of total power and supports 2.5 MW of critical IT load across liquid-cooled racks designed for NVIDIA GB300 and Cerebras CS-3 systems, with flexibility for other AI architectures. Blocks combine liquid cooling, heat rejection, power distribution, UPS and on-site battery storage, will be built and tested in Chesnee before shipment, and use sealed, closed cooling loops that require no ongoing water supply.
+•
+Complementary Water and Cooling Technology: BitSink’s closed-loop liquid cooling systems reject the type of low-grade waste heat that AirJoule Prime uses to produce pure distilled water. Together, the two systems represent a path toward water-neutral, and potentially water-positive, liquid-cooled AI infrastructure.
+Third Quarter 2026 Financial Results
+BitSink is a wholly owned subsidiary whose results have been consolidated into AIRJ’s financial statements since the September 10, 2026 acquisition date.
+AirJoule, LLC, AIRJ’s 50/50 joint venture with GE Vernova, is accounted for under the equity method. Accordingly, the joint venture’s revenue and operating expenses are not consolidated into AIRJ’s revenue and operating-expense lines.
+•
+Net operating expenses for AIRJ were $5.5 million, including $2.7 million of non-cash stock-based compensation and $0.7 million of BitSink acquisition-related costs.
+•
+AIRJ contributed $3.5 million to the joint venture during the quarter to support productization, manufacturing and commercial-deployment activities.
+•
+AirJoule joint venture operating expenses totaled $4.7 million.
+•
+At September 30, 2026, AIRJ and the AirJoule joint venture held a combined cash, cash equivalents and restricted cash of $31.4 million, with no debt.
+Outlook
+•
+AIRJ reaffirmed its prior guidance for $27 million to $28 million of combined AIRJ and AirJoule joint venture cash spending in 2026, excluding BitSink.
+•
+AIRJ’s preliminary 2027 revenue outlook for BitSink is $15 million to $20 million, supported by $15 million in signed purchase orders and anticipated additional customer demand.
+•
+AIRJ also expects the BitSink segment to generate neutral to positive free cash flow in 2027.
+Appointment of Timothy N. White to Board of Directors
+Timothy N. White, Senior Vice President, Engineering & Technology at Carrier Global Corporation, has joined AIRJ’s Board of Directors, succeeding Ajay Agrawal. White has more than 30 years of experience leading engineering organizations, development programs and industrial businesses at Carrier, General Electric and Raytheon Technologies.
+“We thank Ajay for his contributions to AIRJ and our relationship with Carrier,” said Pat Eilers, Executive Chairman of AirJoule Technologies. “Tim’s engineering, product and manufacturing experience will be valuable as we advance our products toward commercial scale.”
+Quarterly Report on Form 10-Q
+AirJoule Technologies’ condensed consolidated financial statements and related footnotes will be available in its Quarterly Report on Form 10-Q for the three and nine months ended September 30, 2026, which is expected to be filed with the Securities and Exchange Commission ("SEC") on November 16, 2026.
+Earnings Call Webcast
+AirJoule Technologies will host a conference call to discuss third quarter 2026 results at 8:30 AM ET on Monday, November 16, 2026. To access the live audio webcast of the conference call, please visit the AirJoule Technologies investor relations website at https://airjouletech.com/investors. To participate by phone, dial 877-407-6184. An archived webcast will be available following the call.
+2
+About AirJoule Technologies Corporation
+AirJoule Technologies Corporation (NASDAQ: AIRJ) is a water and cooling technology platform that seeks to free the world of its water and energy constraints. The company is commercializing its proprietary AirJoule™ technology for atmospheric water generation and dehumidification through a joint venture with GE Vernova. AirJoule Technologies also owns BitSink, a U.S. designer and manufacturer of modular data center infrastructure, liquid cooling systems and electrical equipment for AI and high-performance computing workloads. For more information, visit https://airjouletech.com.
+Follow AirJoule Technologies on LinkedIn: https://www.linkedin.com/company/airjoule-tech/
+Forward Looking Statements
+The information in this press release includes “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements, other than statements of present or historical fact included in this press release, regarding AirJoule Technologies and its future financial and operational performance, as well as its strategy, future operations, estimated financial position, estimated revenues, and losses, projected costs, prospects, plans and objectives of management are forward looking statements. When used in this press release, including any oral statements made in connection therewith, the words “may,” “should,” “will,” “expect,” “might,” “plan,” “anticipate,” “could,” “intend,” “target,” “goal,” “project,” “contemplate,” “believe,” “estimate,” “predict,” “potential,” “positioned,” “seek,” “would” or “continue,” and the negative of such terms and other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words. These forward-looking statements are based on management’s current expectations and assumptions about future events and are based on currently available information as to the outcome and timing of future events. Except as otherwise required by applicable law, AirJoule Technologies expressly disclaims any duty to update any forward-looking statements, all of which are expressly qualified by the statements herein, to reflect events or circumstances after the date of this press release.
+AirJoule Technologies cautions you that these forward-looking statements are subject to numerous risks and uncertainties, most of which are difficult to predict and many of which are beyond AirJoule Technologies’ control. These risks include, but are not limited to, our ability to implement business plans and forecasts, including the ability to develop, deploy and commercialize our technology and equipment, risks related to our arrangements with strategic partnerships and other third parties; the availability and cost of materials needed to develop, deploy and commercialize our technology and equipment, our status as an early stage company with limited operating history, and the other risks and uncertainties described in our SEC filings including the “Risk Factors” section of our most recent Annual Report on Form 10-K and any subsequently filed Quarterly Reports on Form 10-Q. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. Should one or more of the risks or uncertainties described in this press release occur, or should underlying assumptions prove incorrect, actual results and plans could differ materially from those expressed in any forward-looking statements. AirJoule Technologies’ SEC filings are available publicly on the SEC’s website at www.sec.gov, and readers are urged to carefully review and consider the various disclosures made in such filings.
+Trademark Protection
+AirJoule Technologies’ name, logos and website name and address are trademarks or service marks. Solely for convenience, in some cases, the trademarks, trade names and service marks referred to in this press release are listed without the applicable ®, TM and SM symbols, but AirJoule Technologies will assert, to the fullest extent under applicable law, its rights to these trademarks, trade names and service marks.
+3
+AIRJOULE TECHNOLOGIES CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+September 30, | December 31,
+2026 | 2025
+Assets
+Current assets
+Cash and cash equivalents | $ | 29,150,444 | $ | 21,817,622
+Restricted cash | 2,031,160 | 30,833
+Inventory | 1,665,610 | —
+Due from related party - AirJoule, LLC | 667,182 | 1,212,514
+Prepaid expenses and other current assets | 641,661 | 750,648
+Total current assets | 34,156,057 | 23,811,617
+Operating lease right-of-use asset | 90,174 | 115,102
+Property and equipment, net | 1,230,119 | 24,544
+Goodwill | 18,931,167 | —
+Intangible assets | 9,273,577 | —
+Investment in AirJoule, LLC | 241,186,326 | 316,657,273
+Other assets | 33,696 | 33,696
+Total assets | $ | 304,901,116 | $ | 340,642,232
+Liabilities and stockholders’ equity
+Current liabilities
+Accounts payable | $ | 347,565 | $ | 163,107
+Deferred revenue - related party | 750,000 | —
+Indemnity holdback payable - related party | 400,000 | —
+Accrued sales and use taxes | 1,600,000 | —
+Other accrued expenses | 2,394,709 | 2,066,218
+Operating lease liability, current | 36,869 | 34,437
+Total current liabilities | 5,529,143 | 2,263,762
+Earnout Shares liability | 2,122,000 | 6,196,000
+Contingent consideration liability - related party | 5,161,800 | —
+Subject Vesting Shares liability | 3,130,000 | 1,180,000
+Operating lease liability, non-current | 61,521 | 89,564
+Deferred tax liability | 39,236,863 | 62,975,045
+Total liabilities | 55,241,327 | 72,704,371
+Commitments and contingencies (Note 12)
+Stockholders’ equity
+Preferred stock, $0.0001 par value; 25,000,000 authorized shares and 0 shares issued and outstanding as of September 30, 2026 and December 31, 2025 | $ | — | $ | —
+Class A common stock, $0.0001 par value; 600,000,000 authorized shares and 76,378,030 and 61,207,295 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | 7,639 | 6,121
+Additional paid-in capital | 138,335,219 | 78,444,477
+Retained earnings | 111,316,931 | 189,487,263
+Total stockholders’ equity | 249,659,789 | 267,937,861
+Total liabilities and stockholders’ equity | $ | 304,901,116 | $ | 340,642,232
+4
+AIRJOULE TECHNOLOGIES CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Cost and expenses:
+General and administrative | $ | 4,763,808 | $ | 2,962,759 | $ | 11,926,086 | $ | 9,500,454
+Research and development | 547,474 | (8,476 | ) | 935,752 | 781,066
+Sales and marketing | 42,837 | 50,473 | 206,787 | 72,476
+Depreciation and amortization | 103,191 | 2,871 | 111,498 | 6,748
+Loss from operations | (5,457,310 | ) | (3,007,627 | ) | (13,180,123 | ) | (10,360,744 | )
+Other income (expense):
+Interest income | 351,563 | 272,899 | 929,157 | 799,656
+Equity loss from investment in AirJoule, LLC | (25,812,127 | ) | (1,948,586 | ) | (91,470,947 | ) | (6,268,531 | )
+Change in fair value of Earnout Shares liability | 5,039,000 | (1,728,000 | ) | 4,074,000 | 17,380,000
+Change in fair value of True Up Shares liability | — | — | — | 106,106
+Change in fair value of Subject Vesting Shares liability | 339,000 | (95,000 | ) | (1,950,000 | ) | 6,313,000
+Change in fair value of Equity Line Obligation liability | (344,622 | ) | — | (309,024 | ) | —
+Loss on disposition of property and equipment | — | — | (1,577 | ) | —
+Other income (expense), net | — | 98,187 | — | (187,283 | )
+Total other income (expense), net | (20,427,186 | ) | (3,400,500 | ) | (88,728,391 | ) | 18,142,948
+Income (loss) before income taxes | (25,884,496 | ) | (6,408,127 | ) | (101,908,514 | ) | 7,782,204
+Income tax benefit | 6,073,270 | 2,395,968 | 23,738,182 | 5,597,508
+Net income (loss) | $ | (19,811,226 | ) | $ | (4,012,159 | ) | $ | (78,170,332 | ) | $ | 13,379,712
+Weighted average Class A common stock outstanding, basic | 74,081,572 | 60,452,978 | 70,337,933 | 58,598,923
+Basic net income (loss) per share, Class A common stock | $ | (0.27 | ) | $ | (0.07 | ) | $ | (1.11 | ) | $ | 0.23
+Weighted average Class A common stock outstanding, diluted | 74,081,572 | 60,452,978 | 70,337,933 | 59,608,314
+Diluted net income (loss) per share, Class A common stock | $ | (0.27 | ) | $ | (0.07 | ) | $ | (1.11 | ) | $ | 0.22
+5
+AIRJOULE TECHNOLOGIES CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+Nine Months Ended September 30,
+2026 | 2025
+Cash flows from operating activities
+Net income (loss) | $ | (78,170,332 | ) | $ | 13,379,712
+Adjustment to reconcile net income (loss) to cash (used in) provided by operating activities:
+Depreciation and amortization | 111,498 | 6,748
+Deferred tax benefit | (23,738,182 | ) | (5,597,508 | )
+Amortization of operating lease right-of-use assets | 24,927 | 23,786
+Change in fair value of Earnout Shares liability | (4,074,000 | ) | (17,380,000 | )
+Change in fair value of True Up Shares liability | — | (106,106 | )
+Change in fair value of Subject Vesting Shares liability | 1,950,000 | (6,313,000 | )
+Change in fair value of Equity Line Obligation liability | 309,024 | 148,495
+Loss on disposition of property and equipment | 1,577 | —
+Change in accrued royalties | — | (250,000 | )
+Equity loss from investment in AirJoule, LLC | 91,470,947 | 6,268,531
+Stock-based compensation | 5,209,045 | 3,592,085
+Changes in operating assets and liabilities:
+Due from related party - AirJoule, LLC | 1,355,530 | 2,136,390
+Prepaid expenses and other assets | 108,988 | (129,214 | )
+Operating lease liabilities | (25,612 | ) | (22,181 | )
+Accounts payable | 184,458 | 49,742
+Accrued expenses and other liabilities | 325,808 | 156,789
+Net cash used in operating activities | (4,956,324 | ) | (4,035,731 | )
+Cash flows from investing activities
+Purchases of property and equipment | (105,716 | ) | (18,008 | )
+Investment in AirJoule, LLC | (16,000,000 | ) | (12,750,000 | )
+Cash paid for acquisition of BitSink LLC | (13,845,629 | ) | —
+Payment of acquiree transaction expenses assumed in acquisition | (1,404,371 | ) | —
+Net cash used in investing activities | (31,355,716 | ) | (12,768,008 | )
+Cash flows from financing activities
+Proceeds from the exercise of options and purchases pursuant to employee stock purchase plan | 96,510 | 140,887
+Proceeds from the PIPE offering, net | — | 14,243,731
+Proceeds from the issuance of common stock | 36,453,501 | —
+Proceeds from the issuance of common stock pursuant to the Equity Line Purchase Agreement | 9,900,732 | 405,098
+Deferred offering costs paid | (684,499 | ) | —
+Taxes paid related to net share settlement of equity awards | (121,055 | ) | —
+Net cash provided by financing activities | 45,645,189 | 14,789,716
+Net increase (decrease) in cash, cash equivalents and restricted cash | 9,333,149 | (2,014,023 | )
+Cash, cash equivalents and restricted cash, beginning of period | 21,848,455 | 28,021,748
+Cash, cash equivalents and restricted cash, end of the period | $ | 31,181,604 | $ | 26,007,725
+Supplemental non-cash investing and financing activities:
+Issuance of True Up Shares | $ | — | $ | 2,082,894
+Deferred offering costs included in accrued expenses and other current liabilities | $ | — | $ | 82,081
+Class A common stock issued in acquisition of BitSink LLC | $ | 7,921,487 | $ | —
+Contingent consideration recognized in acquisition of BitSink LLC | $ | 5,161,800 | $ | —
+Deferred consideration payable in acquisition of BitSink LLC | $ | 400,000 | $ | —
+Supplemental cash flow information:
+Taxes paid | $ | — | $ | —
+Contacts
+Investor Relations & Media:
+Tom Divine – Vice President, Investor Relations and Finance
+investors@airjouletech.com
+6

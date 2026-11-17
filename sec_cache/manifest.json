@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T11:43:36+08:00",
+  "fetched_at": "2026-11-17T12:10:39+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,131 +16,131 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 718 ms"
+      "detail": "HTTP 200, 60 KB in 621 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 521 ms"
+      "detail": "HTTP 200, 60 KB in 270 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=200",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 1662 ms"
+      "detail": "HTTP 200, 59 KB in 445 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 575 ms"
+      "detail": "HTTP 200, 60 KB in 375 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1609 ms"
+      "detail": "HTTP 200, 60 KB in 491 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=500",
       "ok": true,
-      "detail": "HTTP 200, 15 KB in 461 ms"
+      "detail": "HTTP 200, 15 KB in 201 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 121 ms"
+      "detail": "HTTP 200, 148 KB in 94 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 53 ms"
+      "detail": "HTTP 200, 156 KB in 63 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 58 ms"
+      "detail": "HTTP 200, 154 KB in 60 ms"
     },
     {
-      "name": "Fortress Biotech, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1429260/000110465926126525/index.json",
+      "name": "AirJoule Technologies Corp. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1855474/000185547426000003/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 278 ms"
+      "detail": "HTTP 200, 1 KB in 75 ms"
     },
     {
-      "name": "Fortress Biotech, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1429260/000110465926126525/fbio-ex99d1.htm",
+      "name": "AirJoule Technologies Corp. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1855474/000185547426000003/airj-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 345 KB in 185 ms"
+      "detail": "HTTP 200, 489 KB in 42 ms"
     },
     {
-      "name": "SAGA COMMUNICATIONS INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/886136/000110465926125986/index.json",
+      "name": "Vuzix Corp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1463972/000110465926127106/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 268 ms"
+      "detail": "HTTP 200, 1 KB in 35 ms"
     },
     {
-      "name": "SAGA COMMUNICATIONS INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/886136/000110465926125986/sga-ex99d1.htm",
+      "name": "Vuzix Corp press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1463972/000110465926127106/tm2629748d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 396 KB in 155 ms"
+      "detail": "HTTP 200, 42 KB in 35 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 77 ms"
+      "detail": "HTTP 200, 3,174 KB in 98 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 114 ms"
+      "detail": "HTTP 200, 4,447 KB in 110 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 75 ms"
+      "detail": "HTTP 200, 2,745 KB in 95 ms"
     },
     {
-      "name": "Fortress Biotech, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001429260.json",
+      "name": "AirJoule Technologies Corp. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001855474.json",
       "ok": true,
-      "detail": "HTTP 200, 2,980 KB in 99 ms"
+      "detail": "HTTP 200, 624 KB in 195 ms"
     },
     {
-      "name": "SAGA COMMUNICATIONS INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000886136.json",
+      "name": "Vuzix Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001463972.json",
       "ok": true,
-      "detail": "HTTP 200, 2,523 KB in 251 ms"
+      "detail": "HTTP 200, 2,838 KB in 292 ms"
     },
     {
       "name": "Kura Oncology, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001422143.json",
       "ok": true,
-      "detail": "HTTP 200, 1,583 KB in 203 ms"
+      "detail": "HTTP 200, 1,583 KB in 104 ms"
     },
     {
       "name": "Grove Collaborative Holdings, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001841761.json",
       "ok": true,
-      "detail": "HTTP 200, 877 KB in 218 ms"
+      "detail": "HTTP 200, 877 KB in 178 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000886136.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001422143.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001429260.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001463972.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001841761.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001855474.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -150,9 +150,9 @@
     "efts.sec.gov_search-index_from300.json",
     "efts.sec.gov_search-index_from400.json",
     "efts.sec.gov_search-index_from500.json",
-    "www.sec.gov_Archives_edgar_data_1429260_000110465926126525_fbio-ex99d1.htm",
-    "www.sec.gov_Archives_edgar_data_1429260_000110465926126525_index.json",
-    "www.sec.gov_Archives_edgar_data_886136_000110465926125986_index.json",
-    "www.sec.gov_Archives_edgar_data_886136_000110465926125986_sga-ex99d1.htm"
+    "www.sec.gov_Archives_edgar_data_1463972_000110465926127106_index.json",
+    "www.sec.gov_Archives_edgar_data_1463972_000110465926127106_tm2629748d1_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1855474_000185547426000003_airj-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1855474_000185547426000003_index.json"
   ]
 }

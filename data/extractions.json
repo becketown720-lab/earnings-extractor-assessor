@@ -889,5 +889,131 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1463972/000110465926127106/tm2629748d1_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1463972/000110465926127106/0001104659-26-127106-index.htm",
     "saved_at": "2026-11-18T06:07:50+08:00"
+  },
+  {
+    "cik": "57131",
+    "company": "LA-Z-BOY INC",
+    "accession": "0000057131-26-000042",
+    "release_date": "2026-11-17",
+    "period_end": "2026-10-24",
+    "period_label": "quarter ended 24 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 526.057,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 526,057 | $ | 522,480 | $ | 1,001,746"
+      },
+      "operating_income": {
+        "value": 21.788,
+        "unit": "USD millions",
+        "quote": "Operating income | 21,788 | 36,179 | 19,684 | 58,166"
+      },
+      "net_income": {
+        "value": 17.777,
+        "unit": "USD millions",
+        "quote": "Net income attributable to La-Z-Boy Incorporated | $ | 17,777 | $ | 28,858 | $ | 15,485 | $ | 47,062"
+      },
+      "diluted_eps": {
+        "value": 0.45,
+        "unit": "USD per share",
+        "quote": "Diluted net income attributable to La-Z-Boy Incorporated per share | $ | 0.45 | $ | 0.70 | $ | 0.39 | $ | 1.14"
+      }
+    },
+    "guidance": {
+      "text": "La-Z-Boy expects fiscal third quarter sales of $505-525 million and an adjusted operating margin of 4.0-5.5%.",
+      "quote": "We expect fiscal third quarter sales to be in the range of $505-525 million and adjusted operating margin(2) in the range of 4.0-5.5%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the company delivered strong sales growth in the quarter and continued momentum.",
+        "quote": "We were pleased with the strong sales growth we delivered in the quarter and the continued momentum in our business as we invest for the long-term and execute our Century Vision strategy."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO is confident the business can keep growing despite a dynamic environment.",
+        "quote": "I am confident in our ability to continue to grow our business even in this dynamic environment."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO's third-quarter outlook reflects a measured macroeconomic view, uneven demand and continued investment and transition costs.",
+        "quote": "reflecting a measured view of the macroeconomic backdrop, uneven consumer demand, and our continued near-term strategic investments and transitional costs as we optimize our plant footprint and progress our distribution and home delivery transformation."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO praises strong sales growth and is confident, while the CFO cites a measured macro view, uneven consumer demand and near-term headwinds."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/57131-0000057131-26-000042.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/57131/000005713126000042/fy27q2pressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/57131/000005713126000042/0000057131-26-000042-index.htm",
+    "saved_at": "2026-11-19T06:08:17+08:00"
+  },
+  {
+    "cik": "50725",
+    "company": "GRIFFON CORP",
+    "accession": "0001628280-26-074359",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 490.888,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 490,888 | $ | 475,555 | $ | 1,848,378 | $ | 1,795,384"
+      },
+      "operating_income": {
+        "value": 117.553,
+        "unit": "USD millions",
+        "quote": "Income from continuing operations | 117,553 | 110,693 | 419,814 | 173,866"
+      },
+      "net_income": {
+        "value": 185.902,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 185,902 | $ | 43,636 | $ | 321,239 | $ | 51,110"
+      },
+      "diluted_eps": {
+        "value": 4.15,
+        "unit": "USD per share",
+        "quote": "Diluted income per common share | $ | 4.15 | $ | 0.95 | $ | 7.08 | $ | 1.09"
+      }
+    },
+    "guidance": {
+      "text": "Griffon expects fiscal 2027 revenue and adjusted EBITDA to be in line with the prior year, at $1.85 billion and $460 million.",
+      "quote": "Griffon expects fiscal 2027 revenue and adjusted EBITDA to be consistent with the prior year at $1.85 billion and $460 million, respectively."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO calls fiscal 2026 transformational, with debt reduced by $364 million and bond maturities extended to 2034.",
+        "quote": "Fiscal 2026 was a transformational year for Griffon"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO expects growth to accelerate as building activity improves.",
+        "quote": "Griffon is well-positioned for the future, and we expect our growth to accelerate as building activity improves."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "Management highlights free cash flow of $267 million for the year, share repurchases and lower leverage.",
+        "quote": "Our solid operational and financial results for the year were highlighted by strong free cash flow of $267 million."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the year transformational, cites strong free cash flow and expresses confidence in the strategic plan and outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/50725-0001628280-26-074359.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/50725/000162828026074359/gffearningsreleaseq42026ex.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/50725/000162828026074359/0001628280-26-074359-index.htm",
+    "saved_at": "2026-11-19T06:08:17+08:00"
   }
 ]

@@ -1015,5 +1015,115 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/50725/000162828026074359/gffearningsreleaseq42026ex.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/50725/000162828026074359/0001628280-26-074359-index.htm",
     "saved_at": "2026-11-19T06:08:17+08:00"
+  },
+  {
+    "cik": "746515",
+    "company": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC",
+    "accession": "0001193125-26-466274",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "Expeditors guides to earnings per share of $2.70 to $3.00 for the fourth quarter of 2026 and $9.09 to $9.39 for the full year 2026.",
+      "quote": "Q4 Earnings Per Share 2026 Earnings Per Share $2.70 - $3.00 ~81% to 101% vs. PY $9.09 - $9.39 ~53% to 58% vs. PY"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "Management says the company has the clearest path to growth in its history.",
+        "quote": "We believe we have the clearest path to growth in our company's history"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Management says shipments grew while headcount stayed almost flat.",
+        "quote": "More shipments, same staffing HEADCOUNT +<1% Annualized run rate CAPACITY +8.9% Shipments"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CFO's section says the business model is structurally advantaged and placed to compound faster through share gains, technology and capital discipline.",
+        "quote": "Expeditors has built a structurally advantaged business model and is well positioned to compound faster through market share gains, technology enabled productivity, and disciplined capital allocation"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The presentation speaks of the clearest path to growth in the company's history and a structurally advantaged model, and names no headwind in management's words."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/746515-0001193125-26-466274.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/expd-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/0001193125-26-466274-index.htm",
+    "saved_at": "2026-11-20T06:08:30+08:00"
+  },
+  {
+    "cik": "356309",
+    "company": "NEW JERSEY RESOURCES CORP",
+    "accession": "0001140361-26-044760",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 374.365,
+        "unit": "USD millions",
+        "quote": "Total operating revenues | 374,365"
+      },
+      "operating_income": {
+        "value": 47.23,
+        "unit": "USD millions",
+        "quote": "OPERATING INCOME | 47,230"
+      },
+      "net_income": {
+        "value": 17.264,
+        "unit": "USD millions",
+        "quote": "NET INCOME | $ | 17,264"
+      },
+      "diluted_eps": {
+        "value": 0.17,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.17"
+      }
+    },
+    "guidance": {
+      "text": "NJR introduces fiscal 2027 net financial earnings per share (a non-GAAP measure) guidance of $3.25 to $3.40.",
+      "quote": "NJR is introducing its fiscal 2027 NFEPS guidance range of $3.25 to $3.40"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says fiscal 2026 delivered higher net income and net financial earnings.",
+        "quote": "We delivered higher net income and NFE, advanced initiatives to manage cost impacts for our utility customers"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the solar and gas infrastructure businesses expanded and Energy Services performed strongly.",
+        "quote": "expanded our solar and natural gas infrastructure businesses, and benefited from strong performance at Energy Services"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says fiscal 2027 will focus on affordable, safe and reliable operations, capital discipline and long-term value.",
+        "quote": "As we enter Fiscal 2027, we remain focused on affordable, safe, and reliable operations, disciplined capital management and creating long-term value for our shareowners."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says fiscal 2026 demonstrated the value of the diversified platform and disciplined execution, with higher net income and strong Energy Services."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/356309-0001140361-26-044760.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/0001140361-26-044760-index.htm",
+    "saved_at": "2026-11-20T06:08:30+08:00"
   }
 ]

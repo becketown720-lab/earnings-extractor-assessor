@@ -1,0 +1,392 @@
+Company: NEW JERSEY RESOURCES CORP (CIK 356309)
+Accession: 0001140361-26-044760
+Results released: 2026-11-18
+Press release: https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/0001140361-26-044760-index.htm
+Saved: 2026-11-20T06:08:30+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ef20085865_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+NEW JERSEY RESOURCES REPORTS FISCAL 2026
+FOURTH-QUARTER AND YEAR-END RESULTS
+WALL, N.J., November 18, 2026 — New Jersey Resources Corporation (NYSE: NJR) today reported financial and operating results for its fiscal 2026 fourth quarter and year-ended September 30, 2026.
+Financial Highlights
+Fiscal Year
+• | Fiscal 2026 consolidated net income totaled $368.4 million, or $3.65 per share, compared with $335.6 million, or $3.35 per share, in fiscal 2025
+• | Fiscal 2026 consolidated net financial earnings (NFE), a non-GAAP financial measure, totaled $361.6 million, or $3.58 per share, compared with $329.6 million, or $3.29 per share, in fiscal 2025
+Quarterly
+• | Fiscal 2026 fourth-quarter consolidated net income of $17.3 million, or $0.17 per share, compared with net income of $15.1 million, or $0.15 per share, in the fourth quarter of fiscal 2025
+• | Fiscal 2026 fourth-quarter consolidated NFE of $10.7 million, or $0.11 per share, compared with $16.2 million, or $0.16 per share, in the fourth quarter of fiscal 2025
+Operating Highlights
+• | New Jersey Natural Gas (NJNG): Reduced the average customer bill by 9.0%, or approximately $158 annually, ahead of the 2026-2027 winter heating season, while continuing to invest in safe, reliable service
+◦ | Further supported customer affordability through a record $101 million investment in SAVEGREEN energy efficiency programs, reducing customers energy use and bills
+◦ | Through energy assistance outreach, NJNG connected customers with approximately $21 million in bill payment assistance
+• | Clean Energy Ventures (CEV): Placed 14 commercial solar projects into service during fiscal 2026, adding 72.4 megawatts (MW)* of capacity and bringing total in-service commercial solar capacity to approximately 552 MW
+• | Storage and Transportation (S&T):
+◦ | Adelphia Gateway (Adelphia): Received approval of its rate case settlement in November 2025, supporting higher operating income in fiscal 2026
+◦ | Leaf River Energy Center: (Leaf River): Received FERC authorization to expand its natural gas storage capacity to 55.2 Bcf
+• | Energy Services (ES): Capitalized on winter-period natural gas price volatility, contributing to two net financial earnings per share (NFEPS) guidance range increases in fiscal 2026
+• | Home Services: Named a Ruud Top Twenty Pro Partner Contractor for the 10th consecutive year
+Fiscal 2027 Outlook
+• | Maintains 7 to 9 percent long-term NFEPS growth target, starting from a fiscal 2025 base of $2.83 per share**
+• | Introduces fiscal 2027 NFEPS guidance range of $3.25 to $3.40
+* All MWs noted in DC
+** The fiscal 2025 NFEPS base of $2.83 represents the midpoint of Fiscal 2025 NFEPS guidance, excluding the net impact of the sale of our residential portfolio
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 2 of 13
+Management Commentary
+Steve Westhoven, President and CEO of New Jersey Resources, stated, “Fiscal 2026 demonstrated the value of NJR's diversified energy platform and disciplined execution. We delivered higher net income and NFE, advanced initiatives to manage cost impacts for our utility customers, expanded our solar and natural gas infrastructure businesses, and benefited from strong performance at Energy Services. As we enter Fiscal 2027, we remain focused on affordable, safe, and reliable operations, disciplined capital management and creating long-term value for our shareowners."
+Fiscal 2027 NFEPS Guidance
+NJR is introducing its fiscal 2027 NFEPS guidance range of $3.25 to $3.40, subject to the risks and uncertainties identified below under "Forward-Looking Statements."
+The following chart represents NJR’s current expected NFE contributions from its business segments for fiscal 2027:
+Segment | Expected fiscal 2027 net financial earnings contribution
+New Jersey Natural Gas | 60 to 65 percent
+Clean Energy Ventures | 14 to 18 percent
+Storage and Transportation | 10 to 14 percent
+Energy Services | 8 to 14 percent
+Home Services and Other | 0 to 1 percent
+In providing fiscal 2027 NFE guidance, management is aware that there could be differences between reported GAAP net income and NFE due to matters such as, but not limited to, the positions of our energy-related derivatives. Management is not able to reasonably estimate the aggregate impact or significance of these items on reported earnings and, therefore, is not able to provide a reconciliation to the corresponding GAAP equivalent for its operating earnings guidance without unreasonable efforts.
+Financial Metrics
+Three Months Ended September 30, | Twelve Months Ended September 30,
+($ in Thousands, except per share data) | 2026 | 2025 | 2026 | 2025
+Net income | $ | 17,264 | $ | 15,072 | $ | 368,355 | $ | 335,627
+Basic EPS | $ | 0.17 | $ | 0.15 | $ | 3.65 | $ | 3.35
+Net financial earnings* | $ | 10,689 | $ | 16,229 | $ | 361,629 | $ | 329,617
+Basic net financial earnings per share* | $ | 0.11 | $ | 0.16 | $ | 3.58 | $ | 3.29
+*A reconciliation of net income to NFE for the three and twelve months ended September 30, 2026 and 2025, respectively is provided in the financial statements below.
+Net Financial Earnings (Loss) by Business Segment
+Three Months Ended September 30, | Twelve Months Ended September 30,
+($ in Thousands) | 2026 | 2025 | 2026 | 2025
+New Jersey Natural Gas | $ | (24,398 | ) | $ | (7,977 | ) | $ | 214,031 | $ | 213,541
+Clean Energy Ventures | 33,524 | 23,841 | 37,579 | 61,156
+Storage and Transportation | 9,615 | 4,636 | 33,448 | 18,541
+Energy Services | (7,870 | ) | (4,532 | ) | 76,661 | 34,868
+Home Services and Other | (952 | ) | (825 | ) | (113 | ) | (407 | )
+Subtotal | 9,919 | 15,143 | 361,606 | 327,699
+Eliminations | 770 | 1,086 | 23 | 1,918
+Total | $ | 10,689 | $ | 16,229 | $ | 361,629 | $ | 329,617
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 3 of 13
+New Jersey Natural Gas (NJNG)
+NJNG reported fiscal 2026 fourth-quarter net financial loss of $(24.4) million, compared with $(8.0) million during the same period in fiscal 2025. The decrease in NFE for the period was driven primarily by higher depreciation expense as a result of additional utility plant being placed into service and higher interest expense, partially offset by higher utility gross margin.
+Fiscal 2026 NFE totaled $214.0 million, compared with NFE of $213.5 million in fiscal 2025. The increase is due primarily to the full-year impact of base rates that became effective November 21, 2024, compared with the partial-year impact recognized in fiscal 2025, along with customer growth and SAVEGREEN investments, partially offset by higher depreciation expense from additional plant placed in service.
+Customers:
+• | At September 30, 2026, NJNG serviced approximately 596,000 customers in New Jersey’s Monmouth, Ocean, Morris, Middlesex, Sussex and Burlington counties, compared to approximately 589,000 customers as of September 30, 2025.
+Regulatory Filings:
+• | On June 1, 2026, NJNG submitted its annual Basic Gas Supply Service (BGSS), Conservation Incentive Program (CIP) and energy-efficiency filings to the New Jersey Board of Public Utilities (BPU). Taken together, the filings were designed to reduce the average residential customer bill by 9.0%, or approximately $158 annually, ahead of the 2026–2027 winter season. The proposed rate changes were subsequently approved on a provision basis by the BPU and became effective October 1, 2026.
+• | Also, on June 1, 2026, NJNG filed a base rate case with the BPU, seeking a $157.6 million increase to its base rates. The filing is based on an overall rate of return on rate base of 7.60 percent with a return on common equity of 10.10 percent. The proposed increase reflects a 55.50 percent common equity component. On September 21, 2026, the filing was updated to reflect actual results through July 31, 2026, which modified the requested increase to approximately $158.3 million and changed the Company’s overall rate of return on rate base to 7.52 percent.
+• | Once all filings are implemented, NJNG anticipates that the overall net result will leave NJNG annualized average customer bills nearly flat. Unless otherwise noted, NJNG cannot predict the outcome or ultimate resolution for open regulatory matters.
+• | On September 30, 2026, NJNG filed a letter petition asking the BPU to approve Program Year 7 (PY7), which would continue its SAVEGREEN program through June 30, 2028. The filing has two options: a $127.0 million program based on the BPU's PY7 Framework and a $125.5 million alternative proposed by NJNG. Each option would raise annual recoveries by approximately $17.0 million starting July 1, 2027, if approved.
+BGSS Incentive Programs1:
+• | BGSS incentive programs contributed $22.8 million to utility gross margin during fiscal 2026, compared with $18.4 million for the same period in fiscal 2025. This increase was primarily driven by increased margins from off-system sales and capacity release due to market volatility as a result of colder than normal weather.
+1 BGSS incentive savings represent value created through supply and capacity optimization and shared with customers through the BGSS clause.
+For more information on utility gross margin, please see "Non-GAAP Financial Information" below.
+Energy-Efficiency Programs:
+• | SAVEGREEN® invested $101.0 million in fiscal 2026 in energy-efficiency upgrades for customers' homes and businesses. Investments in SAVEGREEN® are incremental to rate base and earn near-real time returns through an annual recovery mechanism.
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 4 of 13
+• | More than 115,000 customers have taken part in SAVEGREEN® to date, with those utilizing our whole home offerings realizing bill savings of up to 30%.
+Clean Energy Ventures (CEV)
+CEV reported fiscal 2026 fourth-quarter NFE of $33.5 million, compared with $23.8 million during the fourth quarter of fiscal 2025, reflecting higher Renewable Energy Credits and electricity revenue, partially offset by higher depreciation and interest expense associated with capital invested over the past year.
+Fiscal 2026 NFE totaled $37.6 million, compared with NFE of $61.2 million in fiscal 2025. The decrease was primarily due to a gain from the sale of CEV's residential solar portfolio assets that was recognized in the prior year period.
+Solar Investment Update:
+• | During fiscal 2026, CEV placed fourteen commercial projects into service, adding 72.4 MW* to installed capacity.
+• | As of September 30, 2026, CEV had approximately 552 MW of commercial solar capacity in service across New Jersey, New York, Connecticut, Pennsylvania, Rhode Island, Indiana, Michigan and Maine.
+* All MWs noted in DC
+Storage and Transportation (S&T)
+S&T reported fiscal 2026 fourth-quarter NFE of $9.6 million, compared with $4.6 million during the same period in fiscal 2025. Fiscal 2026 NFE totaled $33.4 million, compared with NFE of $18.5 million in fiscal 2025.
+NFE increased during both periods mainly due to higher operating income at Adelphia Gateway primarily due to the impact of its rate case settled on November 4, 2025 and higher firm storage rates at Leaf River.
+Energy Services (ES)
+ES reported fiscal 2026 fourth-quarter net financial loss of $(7.9) million, compared with net financial loss of $(4.5) million for the same period in fiscal 2025.
+Fiscal 2026 NFE totaled $76.7 million, compared with NFE of $34.9 million for the same period in fiscal 2025. The increase in NFE was primarily due to higher natural gas price volatility that allowed ES to capture additional financial margin.
+Home Services and Other Operations
+Home Services and Other Operations reported fiscal 2026 fourth-quarter net financial loss of $(1.0) million, compared with net financial loss of $(0.8) million for the same period in fiscal 2025. Fiscal 2026 net financial loss totaled $(0.1) million, compared with net financial loss of $(0.4) million in fiscal 2025.
+Capital Expenditures and Cash Flows:
+• | Fiscal 2026 capital expenditures, including accruals, were $734.3 million compared with $752.5 million in fiscal 2025.
+• | NJR expects to deploy between $5.3 billion and $5.7 billion in capital expenditures from fiscal 2027 through fiscal 2031, with utility spending at NJNG representing over 60% of the investment and strategic growth opportunities at CEV and S&T supporting long-term value creation.
+• | During fiscal 2026, cash flows from operations increased to $641.2 million, compared to cash flows from operations of $466.3 million in fiscal 2025, due primarily to an increase in financial margin at ES.
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 5 of 13
+Conference Call to be Webcast on November 19, 2026
+New Jersey Resources will host a live webcast of its fiscal 2026 fourth quarter and year-end 2026 financial results on Thursday, November 19, 2026, at 10 a.m. ET. A few minutes prior to the webcast, visit www.njresources.com and select “Investor Relations.” Scroll down and click the webcast link under “Latest Events” on the right side of the page.
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 6 of 13
+About New Jersey Resources
+New Jersey Resources (NYSE: NJR) is a diversified energy infrastructure and energy services company headquartered in Wall, New Jersey.
+NJR is composed of five primary businesses:
+• | New Jersey Natural Gas, NJR’s principal subsidiary, operates and maintains natural gas transportation and distribution infrastructure to serve customers in New Jersey’s Monmouth, Ocean, Morris, Middlesex, Sussex and Burlington counties.
+• | Clean Energy Ventures invests in, owns and operates solar projects, providing customers with low-carbon solutions.
+• | Energy Services manages a diversified portfolio of natural gas transportation and storage assets and provides physical natural gas services and customized energy solutions to its customers across North America.
+• | Storage and Transportation serves customers from local distributors and producers to electric generators and wholesale marketers through its ownership of Leaf River and the Adelphia Gateway pipeline, as well as our 50% equity ownership in the Steckman Ridge natural gas storage facility.
+• | Home Services provides service contracts as well as heating, central air conditioning, water heaters, standby generators and other indoor and outdoor comfort products to residential homes throughout New Jersey.
+NJR and its almost 1,400 employees are committed to helping customers save energy and money by promoting conservation and encouraging efficiency through Conserve to Preserve® and initiatives such as SAVEGREEN®.
+For more information about NJR:
+www.njresources.com.
+Follow us on X.com (Twitter) @NJNaturalGas.
+“Like” us on facebook.com/NewJerseyNaturalGas.
+Forward-Looking Statements:
+This earnings release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, Section 21E of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. NJR cautions readers that the assumptions forming the basis for forward-looking statements include many factors that are beyond NJR’s ability to control or estimate precisely, such as expectations regarding future market conditions and the behavior of other market participants. Words such as “anticipates,” “estimates,” “expects,” “projects,” “may,” “will,” “intends,” “plans,” “believes,” “should” and similar expressions may identify forward-looking statements and such forward-looking statements are made based upon management’s current expectations, assumptions and beliefs as of this date concerning future developments and their potential effect upon NJR. There can be no assurance that future developments will be in accordance with management’s expectations, assumptions and beliefs or that the effect of future developments on NJR will be those anticipated by management. Forward-looking statements in this earnings release include, but are not limited to, statements regarding NJR’s NFEPS guidance for fiscal 2027, our long-term NFEPS growth target, forecasted contributions of business segments to NJR’s NFE for fiscal 2027, our capital plan through 2031, including our capital expenditure projections through 2031, infrastructure programs and investments, energy-efficiency programs, including NJNG's SAVEGREEN Program Year 7 filing, the outcome or timing of our Base Rate Case and other filings with the BPU, the expected impact of our regulatory filings on customer bills, the expansion of natural gas storage capacity at Leaf River, and other legal and regulatory expectations and statements that include other projections, predictions, expectations or beliefs about future events or results or otherwise are not statements of historical fact.
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 7 of 13
+Additional information and factors that could cause actual results to differ materially from NJR’s expectations are contained in NJR’s filings with the U.S. Securities and Exchange Commission (SEC), including NJR’s Annual Reports on Form 10-K and subsequent Quarterly Reports on Form 10-Q, recent Current Reports on Form 8-K, and other SEC filings, which are available at the SEC’s website, http://www.sec.gov. Information included in this earnings release is representative as of today only and while NJR periodically reassesses material trends and uncertainties affecting NJR's results of operations and financial condition in connection with its preparation of management's discussion and analysis of results of operations and financial condition contained in its Quarterly and Annual Reports filed with the SEC, NJR does not, by including this statement, assume any obligation to review or revise any particular forward-looking statement referenced herein in light of new information, future events or otherwise, except as required by law.
+Non-GAAP Financial Information:
+This earnings release includes the non-GAAP financial measures NFE/net financial loss, NFE per basic share, financial margin and utility gross margin. A reconciliation of these non-GAAP financial measures to the most directly comparable financial measures calculated and reported in accordance with GAAP can be found below. As an indicator of NJR’s operating performance, these measures should not be considered an alternative to, or more meaningful than, net income or operating revenues as determined in accordance with GAAP. This information has been provided pursuant to the requirements of SEC Regulation G.
+NFE and financial margin exclude unrealized gains or losses on derivative instruments related to NJR’s unregulated subsidiaries and certain realized gains and losses on derivative instruments related to natural gas that has been placed into storage at ES, net of applicable tax adjustments as described below. Financial margin also differs from gross margin as defined on a GAAP basis as it excludes certain operations and maintenance expense and depreciation and amortization expenses as well as the effects of derivatives as discussed above. Volatility associated with the change in value of these financial instruments and physical commodity reported on the income statement in the current period. In order to manage its business, NJR views its results without the impacts of the unrealized gains and losses, and certain realized gains and losses, caused by changes in value of these financial instruments and physical commodity contracts prior to the completion of the planned transaction because it shows changes in value currently instead of when the planned transaction ultimately is settled. An annual estimated effective tax rate is calculated for NFE purposes and any necessary quarterly tax adjustment is applied to ES.
+NJNG’s utility gross margin is defined as operating revenues less natural gas purchases, sales tax and regulatory rider expenses. This measure differs from gross margin as presented on a GAAP basis as it excludes certain operations and maintenance expense and depreciation and amortization. Utility gross margin may also not be comparable to the definition of gross margin used by others in the natural gas distribution business and other industries. Management believes that utility gross margin provides a meaningful basis for evaluating utility operations since natural gas costs, sales tax and regulatory rider expenses are included in operating revenues and passed through to customers and, therefore, have no effect on utility gross margin.
+Management uses these non-GAAP financial measures as supplemental measures to other GAAP results to provide a more complete understanding of NJR’s performance. Management believes these non-GAAP financial measures are more reflective of NJR’s business model, provide transparency to investors and enable period-to-period comparability of financial performance. A reconciliation of all non-GAAP financial measures to the most directly comparable financial measures calculated and reported in accordance with GAAP can be found below. For a full discussion of NJR’s non-GAAP financial measures, please see NJR’s most recent Annual Report on Form 10-K, Item 7.
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 8 of 13
+NEW JERSEY RESOURCES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+Three Months Ended September 30, | Twelve Months Ended September 30,
+(Thousands, except per share data) | 2026 | 2025 | 2026 | 2025
+OPERATING REVENUES
+Utility | $ | 146,083 | $ | 144,938 | $ | 1,397,775 | $ | 1,301,496
+Nonutility | 228,282 | 191,140 | 870,025 | 734,916
+Total operating revenues | 374,365 | 336,078 | 2,267,800 | 2,036,412
+OPERATING EXPENSES
+Gas purchases
+Utility | 44,274 | 47,128 | 552,580 | 521,103
+Nonutility | 92,884 | 84,934 | 401,048 | 372,211
+Related parties | 1,298 | 1,300 | 5,097 | 5,952
+Operation and maintenance | 127,378 | 110,700 | 432,129 | 410,506
+Regulatory rider expenses | 5,373 | 5,243 | 108,411 | 87,199
+Depreciation and amortization | 55,928 | 48,478 | 209,178 | 188,774
+Gain on sale of assets | — | (2,108 | ) | — | (58,200 | )
+Total operating expenses | 327,135 | 295,675 | 1,708,443 | 1,527,545
+OPERATING INCOME | 47,230 | 40,403 | 559,357 | 508,867
+Other income, net | 19,933 | 6,581 | 62,360 | 46,244
+Interest expense, net of capitalized interest | 40,629 | 30,483 | 146,479 | 128,595
+INCOME BEFORE INCOME TAXES AND EQUITY IN EARNINGS OF AFFILIATES | 26,534 | 16,501 | 475,238 | 426,516
+Income tax provision | 10,885 | 3,121 | 114,639 | 96,956
+Equity in earnings of affiliates | 1,615 | 1,692 | 7,756 | 6,067
+NET INCOME | $ | 17,264 | $ | 15,072 | $ | 368,355 | $ | 335,627
+EARNINGS PER COMMON SHARE
+Basic | $ | 0.17 | $ | 0.15 | $ | 3.65 | $ | 3.35
+Diluted | $ | 0.17 | $ | 0.15 | $ | 3.62 | $ | 3.33
+WEIGHTED AVERAGE SHARES OUTSTANDING
+Basic | 101,474 | 100,458 | 101,029 | 100,244
+Diluted | 102,227 | 101,024 | 101,731 | 100,788
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 9 of 13
+RECONCILIATION OF NON-GAAP PERFORMANCE MEASURES
+(Unaudited)
+Three Months Ended September 30, | Twelve Months Ended September 30,
+(Thousands) | 2026 | 2025 | 2026 | 2025
+NEW JERSEY RESOURCES
+A reconciliation of net income, the closest GAAP financial measure, to net financial earnings is as follows:
+Net income | $ | 17,264 | $ | 15,072 | $ | 368,355 | $ | 335,627
+Add:
+Unrealized gain on derivative instruments and related transactions | (7,340 | ) | (2,054 | ) | (2,880 | ) | (12,126 | )
+Tax effect | 1,744 | 488 | 684 | 2,882
+Effects of economic hedging related to natural gas inventory | (1,285 | ) | 3,495 | (5,942 | ) | 4,242
+Tax effect | 305 | (830 | ) | 1,412 | (1,008 | )
+NFE tax adjustment | 1 | 58 | — | —
+Net financial earnings | $ | 10,689 | $ | 16,229 | $ | 361,629 | $ | 329,617
+Weighted Average Shares Outstanding
+Basic | 101,474 | 100,458 | 101,029 | 100,244
+Diluted | 102,227 | 101,024 | 101,731 | 100,788
+A reconciliation of basic earnings per share, the closest GAAP financial measure, to basic net financial earnings per share is as follows:
+Basic earnings per share | $ | 0.17 | $ | 0.15 | $ | 3.65 | $ | 3.35
+Add:
+Unrealized gain on derivative instruments and related transactions | (0.07 | ) | (0.02 | ) | (0.03 | ) | (0.12 | )
+Tax effect | 0.03 | 0.01 | 0.01 | 0.03
+Effects of economic hedging related to natural gas inventory | (0.02 | ) | 0.03 | (0.06 | ) | 0.04
+Tax effect | — | (0.01 | ) | 0.01 | (0.01 | )
+Basic net financial earnings per share | $ | 0.11 | $ | 0.16 | $ | 3.58 | $ | 3.29
+NFE is a measure of earnings based on the elimination of timing differences surrounding the recognition of certain gains or losses to effectively match the earnings effects of the economic hedges with the physical sale of natural gas and, therefore, eliminate the impact of volatility to GAAP earnings associated with the derivative instruments. To the extent we utilize forwards, future or other derivatives to hedge natural gas transactions and forecasted SREC production, the resulting unrealized gains and losses are also eliminated from NFE. ES economically hedges its natural gas inventory with financial derivative instruments and calculates the related tax effect based on the statutory rate. Included in the tax effects are current and deferred income tax expense corresponding with the components of NFE.
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 10 of 13
+RECONCILIATION OF NON-GAAP PERFORMANCE MEASURES (continued)
+(Unaudited)
+Three Months Ended September 30, | Twelve Months Ended September 30,
+(Thousands) | 2026 | 2025 | 2026 | 2025
+NATURAL GAS DISTRIBUTION
+A reconciliation of gross margin, the closest GAAP financial measure, to utility gross margin is as follows:
+Operating revenues | $ | 146,322 | $ | 145,178 | $ | 1,398,727 | $ | 1,302,617
+Less:
+Natural gas purchases | 45,894 | 48,748 | 559,060 | 528,992
+Operation and maintenance (1) | 32,231 | 29,938 | 128,694 | 120,175
+Regulatory rider expense | 5,373 | 5,243 | 108,411 | 87,199
+Depreciation and amortization | 41,803 | 36,584 | 156,657 | 140,368
+Gross margin | 21,021 | 24,665 | 445,905 | 425,883
+Add:
+Operation and maintenance (1) | 32,231 | 29,938 | 128,694 | 120,175
+Depreciation and amortization | 41,803 | 36,584 | 156,657 | 140,368
+Utility gross margin | $ | 95,055 | $ | 91,187 | $ | 731,256 | $ | 686,426
+(1) Excludes selling, general and administrative expenses of $34.0 million and $25.7 million for the three months ended September 30, 2026 and 2025, respectively, and $116.9 million and $110.7 million for the fiscal years ended September 30, 2026 and 2025, respectively.
+ENERGY SERVICES
+A reconciliation of gross margin, the closest GAAP financial measure, to Energy Services' financial margin is as follows:
+Operating revenues | $ | 102,731 | $ | 81,909 | $ | 545,955 | $ | 453,457
+Less:
+Natural Gas purchases | 93,125 | 84,935 | 400,928 | 372,431
+Operation and maintenance (1) | 6,340 | 1,478 | 21,656 | 14,959
+Depreciation and amortization | 42 | 48 | 167 | 187
+Gross margin | 3,224 | (4,552 | ) | 123,204 | 65,880
+Add:
+Operation and maintenance (1) | 6,340 | 1,478 | 21,656 | 14,959
+Depreciation and amortization | 42 | 48 | 167 | 187
+Unrealized gain on derivative instruments and related transactions | (7,340 | ) | (2,054 | ) | (2,880 | ) | (12,126 | )
+Effects of economic hedging related to natural gas inventory | (1,285 | ) | 3,495 | (5,942 | ) | 4,242
+Financial margin | $ | 981 | $ | (1,585 | ) | $ | 136,205 | $ | 73,142
+(1) Excludes selling, general and administrative expenses of $0.2 million and $0.3 million during the three months ended September 30, 2026 and 2025, respectively, and $0.9 million and $1.1 million during the fiscal years ended September 30, 2026 and 2025, respectively.
+A reconciliation of net (loss) income, the closest GAAP financial measure, to net financial earnings is as follows:
+Net (loss) income | $ | (1,295 | ) | $ | (5,689 | ) | $ | 83,387 | $ | 40,878
+Add:
+Unrealized gain on derivative instruments and related transactions | (7,340 | ) | (2,054 | ) | (2,880 | ) | (12,126 | )
+Tax effect | 1,744 | 488 | 684 | 2,882
+Effects of economic hedging related to natural gas | (1,285 | ) | 3,495 | (5,942 | ) | 4,242
+Tax effect | 305 | (830 | ) | 1,412 | (1,008 | )
+NFE tax adjustment | 1 | 58 | — | —
+Net financial (loss) earnings | $ | (7,870 | ) | $ | (4,532 | ) | $ | 76,661 | $ | 34,868
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 11 of 13
+FINANCIAL STATISTICS BY BUSINESS UNIT
+(Unaudited)
+Three Months Ended September 30, | Twelve Months Ended September 30,
+(Thousands, except per share data) | 2026 | 2025 | 2026 | 2025
+NEW JERSEY RESOURCES
+Operating Revenues
+Natural Gas Distribution | $ | 146,322 | $ | 145,178 | $ | 1,398,727 | $ | 1,302,617
+Clean Energy Ventures | 73,954 | 66,098 | 134,824 | 112,501
+Energy Services | 102,731 | 81,909 | 545,955 | 453,457
+Storage and Transportation | 32,660 | 27,349 | 121,562 | 106,413
+Home Services and Other | 18,952 | 15,799 | 67,674 | 62,888
+Sub-total | 374,619 | 336,333 | 2,268,742 | 2,037,876
+Eliminations | (254 | ) | (255 | ) | (942 | ) | (1,464 | )
+Total | $ | 374,365 | $ | 336,078 | $ | 2,267,800 | $ | 2,036,412
+Operating (Loss) Income
+Natural Gas Distribution | $ | (12,965 | ) | $ | (1,073 | ) | $ | 328,997 | $ | 315,182
+Clean Energy Ventures | 41,054 | 36,048 | 49,860 | 88,416
+Energy Services | 3,008 | (4,811 | ) | 122,290 | 64,750
+Storage and Transportation | 15,706 | 9,354 | 53,619 | 35,467
+Home Services and Other | (179 | ) | (1,748 | ) | 2,019 | (81 | )
+Sub-total | 46,624 | 37,770 | 556,785 | 503,734
+Eliminations | 606 | 2,633 | 2,572 | 5,133
+Total | $ | 47,230 | $ | 40,403 | $ | 559,357 | $ | 508,867
+Equity in Earnings of Affiliates
+Storage and Transportation | $ | 1,056 | $ | 783 | $ | 5,617 | $ | 3,813
+Eliminations | 559 | 909 | 2,139 | 2,254
+Total | $ | 1,615 | $ | 1,692 | $ | 7,756 | $ | 6,067
+Net (Loss) Income
+Natural Gas Distribution | $ | (24,398 | ) | $ | (7,977 | ) | $ | 214,031 | $ | 213,541
+Clean Energy Ventures | 33,524 | 23,841 | 37,579 | 61,156
+Energy Services | (1,295 | ) | (5,689 | ) | 83,387 | 40,878
+Storage and Transportation | 9,615 | 4,636 | 33,448 | 18,541
+Home Services and Other | (952 | ) | (825 | ) | (113 | ) | (407 | )
+Sub-total | 16,494 | 13,986 | 368,332 | 333,709
+Eliminations | 770 | 1,086 | 23 | 1,918
+Total | $ | 17,264 | $ | 15,072 | $ | 368,355 | $ | 335,627
+Net Financial (Loss) Earnings
+Natural Gas Distribution | $ | (24,398 | ) | $ | (7,977 | ) | $ | 214,031 | $ | 213,541
+Clean Energy Ventures | 33,524 | 23,841 | 37,579 | 61,156
+Energy Services | (7,870 | ) | (4,532 | ) | 76,661 | 34,868
+Storage and Transportation | 9,615 | 4,636 | 33,448 | 18,541
+Home Services and Other | (952 | ) | (825 | ) | (113 | ) | (407 | )
+Sub-total | 9,919 | 15,143 | 361,606 | 327,699
+Eliminations | 770 | 1,086 | 23 | 1,918
+Total | $ | 10,689 | $ | 16,229 | $ | 361,629 | $ | 329,617
+Throughput (Bcf)
+NJNG, Core Customers | 14.4 | 17.5 | 100.5 | 99.6
+NJNG, Off System/Capacity Management | 9.0 | 14.8 | 69.3 | 66.4
+Energy Services Fuel Mgmt. and Wholesale Sales | 32.1 | 26.5 | 114.8 | 108.6
+Total | 55.5 | 58.8 | 284.6 | 274.6
+Common Stock Data
+Yield at September 30, | 4.0 | % | 4.0 | % | 4.0 | % | 4.0 | %
+Market Price at September 30, | $ | 50.60 | $ | 48.15 | $ | 50.60 | $ | 48.15
+Shares Out. at September 30, | 101,492 | 100,479 | 101,492 | 100,479
+Market Cap. at September 30, | $ | 5,135,477 | $ | 4,838,044 | $ | 5,135,477 | $ | 4,838,044
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 12 of 13
+(Unaudited) | Three Months Ended September 30, | Twelve Months Ended September 30,
+(Thousands, except customer and weather data) | 2026 | 2025 | 2026 | 2025
+NATURAL GAS DISTRIBUTION
+Utility Gross Margin
+Operating revenues | $ | 146,322 | $ | 145,178 | $ | 1,398,727 | $ | 1,302,617
+Less:
+Natural gas purchases | 45,894 | 48,748 | 559,060 | 528,992
+Operation and maintenance (1) | 32,231 | 29,938 | 128,694 | 120,175
+Regulatory rider expense | 5,373 | 5,243 | 108,411 | 87,199
+Depreciation and amortization | 41,803 | 36,584 | 156,657 | 140,368
+Gross margin | 21,021 | 24,665 | 445,905 | 425,883
+Add:
+Operation and maintenance (1) | 32,231 | 29,938 | 128,694 | 120,175
+Depreciation and amortization | 41,803 | 36,584 | 156,657 | 140,368
+Total Utility Gross Margin | $ | 95,055 | $ | 91,187 | $ | 731,256 | $ | 686,426
+(1) Excludes selling, general and administrative expenses of $34.0 million and $25.7 million for the three months ended September 30, 2026 and 2025, respectively, and $116.9 million and $110.7 million for the fiscal years ended September 30, 2026 and 2025, respectively.
+Utility Gross Margin, Operating (Loss) Income and Net (Loss) Income
+Residential | $ | 52,014 | $ | 51,916 | $ | 493,843 | $ | 471,733
+Commercial, Industrial & Other | 17,203 | 17,079 | 102,347 | 97,980
+Firm Transportation | 21,515 | 16,793 | 107,492 | 93,543
+Total Firm Margin | 90,732 | 85,788 | 703,682 | 663,256
+Interruptible | 1,861 | 1,507 | 4,745 | 4,743
+Total System Margin | 92,593 | 87,295 | 708,427 | 667,999
+Basic Gas Supply Service Incentive | 2,462 | 3,892 | 22,829 | 18,427
+Total Utility Gross Margin | 95,055 | 91,187 | 731,256 | 686,426
+Operation and maintenance expense | 66,217 | 55,676 | 245,602 | 230,876
+Depreciation and amortization | 41,803 | 36,584 | 156,657 | 140,368
+Operating (Loss) Income | $ | (12,965 | ) | $ | (1,073 | ) | $ | 328,997 | $ | 315,182
+Net (Loss) Income | $ | (24,398 | ) | $ | (7,977 | ) | $ | 214,031 | $ | 213,541
+Net Financial (Loss) Earnings | $ | (24,398 | ) | $ | (7,977 | ) | $ | 214,031 | $ | 213,541
+Throughput (Bcf)
+Residential | 3.6 | 3.5 | 52.2 | 47.8
+Commercial, Industrial & Other | 1.0 | 0.8 | 10.0 | 9.1
+Firm Transportation | 1.5 | 1.4 | 12.4 | 11.7
+Total Firm Throughput | 6.1 | 5.7 | 74.6 | 68.6
+Interruptible | 8.3 | 11.8 | 25.9 | 31.0
+Total System Throughput | 14.4 | 17.5 | 100.5 | 99.6
+Off System/Capacity Management | 9.0 | 14.8 | 69.3 | 66.4
+Total Throughput | 23.4 | 32.3 | 169.8 | 166.0
+Customers
+Residential | 541,589 | 535,852 | 541,589 | 535,852
+Commercial, Industrial & Other | 33,001 | 32,051 | 33,001 | 32,051
+Firm Transportation | 21,213 | 20,967 | 21,213 | 20,967
+Total Firm Customers | 595,803 | 588,870 | 595,803 | 588,870
+Interruptible | 31 | 85 | 31 | 85
+Total System Customers | 595,834 | 588,955 | 595,834 | 588,955
+Off System/Capacity Management* | 17 | 20 | 17 | 20
+Total Customers | 595,851 | 588,975 | 595,851 | 588,975
+*The number of customers represents those active during the last month of the period.
+Degree Days
+Actual | 24 | 5 | 4,611 | 4,152
+Normal | 24 | 25 | 4,371 | 4,395
+Percent of Normal | 100.0 | % | 20.0 | % | 105.5 | % | 94.5 | %
+NJR Reports Fiscal 2026 Fourth-Quarter and Year-End Results Page 13 of 13
+(Unaudited) | Three Months Ended September 30, | Twelve Months Ended September 30,
+(Thousands, except customer, RECs and megawatt data) | 2026 | 2025 | 2026 | 2025
+CLEAN ENERGY VENTURES
+Operating Revenues
+SREC sales | $ | 51,611 | $ | 49,689 | $ | 75,222 | $ | 67,686
+TREC sales | 7,784 | 6,095 | 21,191 | 15,676
+SREC II sales | 1,319 | 754 | 3,497 | 1,899
+Merchant Power | 6,996 | 5,080 | 16,702 | 12,789
+PPA / Other | 6,244 | 4,480 | 18,212 | 12,581
+Residential solar portfolio | — | — | — | 1,870
+Total Operating Revenues | $ | 73,954 | $ | 66,098 | $ | 134,824 | $ | 112,501
+Depreciation and Amortization | $ | 8,513 | $ | 6,404 | $ | 30,330 | $ | 24,105
+Operating Income | $ | 41,054 | $ | 36,048 | $ | 49,860 | $ | 88,416
+Income Tax Provision | $ | 10,391 | $ | 7,220 | $ | 11,270 | $ | 18,214
+Net Income | $ | 33,524 | $ | 23,841 | $ | 37,579 | $ | 61,156
+Net Financial Earnings | $ | 33,524 | $ | 23,841 | $ | 37,579 | $ | 61,156
+Solar Renewable Energy Certificates Generated | 162,943 | 125,100 | 366,144 | 356,977
+Solar Renewable Energy Certificates Sold | 287,019 | 241,119 | 409,138 | 328,776
+Transition Renewable Energy Certificates Generated | 52,741 | 41,077 | 142,656 | 106,334
+Solar Renewable Energy Certificates II Generated | 12,933 | 8,264 | 36,168 | 20,783
+ENERGY SERVICES
+Operating Income
+Operating revenues | $ | 102,731 | $ | 81,909 | $ | 545,955 | $ | 453,457
+Less:
+Gas purchases | 93,125 | 84,935 | 400,928 | 372,431
+Operation and maintenance expense | 6,556 | 1,737 | 22,570 | 16,089
+Depreciation and amortization | 42 | 48 | 167 | 187
+Operating Income (Loss) | $ | 3,008 | $ | (4,811 | ) | $ | 122,290 | $ | 64,750
+Net (Loss) Income | $ | (1,295 | ) | $ | (5,689 | ) | $ | 83,387 | $ | 40,878
+Financial Margin | $ | 981 | $ | (1,585 | ) | $ | 136,205 | $ | 73,142
+Net Financial (Loss) Earnings | $ | (7,870 | ) | $ | (4,532 | ) | $ | 76,661 | $ | 34,868
+Gas Sold and Managed (Bcf) | 32.1 | 26.5 | 114.8 | 108.6
+STORAGE AND TRANSPORTATION
+Operating Revenues | $ | 32,660 | $ | 27,349 | $ | 121,562 | $ | 106,413
+Equity in Earnings of Affiliates | $ | 1,056 | $ | 783 | $ | 5,617 | $ | 3,813
+Operation and Maintenance Expense | $ | 11,645 | $ | 12,527 | $ | 45,772 | $ | 46,930
+Other Income, Net | $ | 1,441 | $ | 2,032 | $ | 6,712 | $ | 8,416
+Interest Expense | $ | 5,391 | $ | 5,643 | $ | 21,788 | $ | 23,170
+Income Tax Provision | $ | 3,197 | $ | 1,890 | $ | 10,712 | $ | 5,985
+Net Income | $ | 9,615 | $ | 4,636 | $ | 33,448 | $ | 18,541
+Net Financial Earnings | $ | 9,615 | $ | 4,636 | $ | 33,448 | $ | 18,541
+HOME SERVICES AND OTHER
+Operating Revenues | $ | 18,952 | $ | 15,799 | $ | 67,674 | $ | 62,888
+Operating (Loss) Income | $ | (179 | ) | $ | (1,748 | ) | $ | 2,019 | $ | (81 | )
+Net Loss | $ | (952 | ) | $ | (825 | ) | $ | (113 | ) | $ | (407 | )
+Net Financial Loss | $ | (952 | ) | $ | (825 | ) | $ | (113 | ) | $ | (407 | )
+Total Service Contract Customers at September 30 | 96,536 | 98,120 | 96,536 | 98,120

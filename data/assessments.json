@@ -8322,5 +8322,421 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-19T06:38:10+08:00"
+  },
+  {
+    "accession": "0001193125-26-466274",
+    "cik": "746515",
+    "company": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty: the investor-day deck gives no quarterly revenue. The 10-Q filed 2026-11-04 gives 4,107.649 USD millions for the quarter."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty: the deck gives no quarterly figure. The 10-Q filed 2026-11-04 gives 445.414 USD millions for the quarter."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left net income empty: the deck gives no quarterly figure. The 10-Q filed 2026-11-04 gives 344.512 USD millions for the quarter."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left diluted EPS empty: the deck gives only Q4 and full-year guidance. The 10-Q filed 2026-11-04 gives 2.65 USD per share for the quarter."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure is wrong: the deck gives no quarterly revenue, profit or EPS, so leaving all four empty was right. The guidance and all three claim quotes are in the saved text. There was no extracted figure to check against the 10-Q."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "The deck gives none of the four quarterly figures, so their absence is not a fault. The watcher captured the Q4 and full-year 2026 EPS guidance ($2.70 to $3.00; $9.09 to $9.39) with its exact quote."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "The guidance and claims are usable as they stand, but the extract gives no quarterly results. The analyst must open the 10-Q filed 2026-11-04 for them (revenue 4,107.649, net income 344.512 USD millions, EPS 2.65)."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": "4,107.649 USD millions (RevenueFromContractWithCustomerExcludingAssessedTax, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-04)",
+        "filed_value": 4107.649,
+        "filed_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-04",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": "445.414 USD millions (OperatingIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-04)",
+        "filed_value": 445.414,
+        "filed_tag": "OperatingIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-04",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": "344.512 USD millions (NetIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-04)",
+        "filed_value": 344.512,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-04",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": "2.65 USD per share (EarningsPerShareDiluted, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-04)",
+        "filed_value": 2.65,
+        "filed_tag": "EarningsPerShareDiluted",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-04",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "An outlook claim, consistent with the latest trend: revenue rose 41.9% on a year ago and 17.3% on the previous quarter; operating income rose 54.6% and 27.4%. Q4 EPS guidance of $2.70 to $3.00 is above the 2.65 filed for this quarter."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Shipments and headcount are not in the fundamentals, but the operating leverage the claim implies shows: operating income rose 54.6% on a year ago against revenue up 41.9%, and the operating margin rose 0.9 pts to 10.8%."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "The numbers bear out faster compounding: revenue +41.9%, net income +55.0% and diluted EPS +61.6% (2.65 against 1.64) on a year ago; operating margin +0.9 pts and net margin +0.7 pts."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Every fundamental rose on both a year ago and the previous quarter: revenue +41.9% and +17.3%, net income +55.0% and +29.4%, and both margins widened, so a positive tone fits the numbers."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 4107.649,
+        "this_quarter_from": "10-Q",
+        "year_ago": 2894.751,
+        "change_year": 41.9,
+        "previous_quarter": 3502.335,
+        "change_quarter": 17.3
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 445.414,
+        "this_quarter_from": "10-Q",
+        "year_ago": 288.042,
+        "change_year": 54.6,
+        "previous_quarter": 349.618,
+        "change_quarter": 27.4
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 344.512,
+        "this_quarter_from": "10-Q",
+        "year_ago": 222.256,
+        "change_year": 55.0,
+        "previous_quarter": 266.226,
+        "change_quarter": 29.4
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 2.65,
+        "this_quarter_from": "10-Q",
+        "year_ago": 1.64,
+        "change_year": 61.6,
+        "previous_quarter": 2.03,
+        "change_quarter": 30.5
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 10.843526309088238,
+        "this_quarter_from": "10-Q",
+        "year_ago": 9.950493151224403,
+        "change_year": 0.9,
+        "previous_quarter": 9.982426010076134,
+        "change_quarter": 0.9
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 8.387084680312265,
+        "this_quarter_from": "10-Q",
+        "year_ago": 7.67789699355834,
+        "change_year": 0.7,
+        "previous_quarter": 7.6013859325278705,
+        "change_quarter": 0.8
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "Management says the company has the clearest path to growth in its history.",
+        "quote": "We believe we have the clearest path to growth in our company's history",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Management says shipments grew while headcount stayed almost flat.",
+        "quote": "More shipments, same staffing HEADCOUNT +<1% Annualized run rate CAPACITY +8.9% Shipments",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CFO's section says the business model is structurally advantaged and placed to compound faster through share gains, technology and capital discipline.",
+        "quote": "Expeditors has built a structurally advantaged business model and is well positioned to compound faster through market share gains, technology enabled productivity, and disciplined capital allocation",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The presentation speaks of the clearest path to growth in the company's history and a structurally advantaged model, and names no headwind in management's words."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": false,
+    "assessed_at": "2026-11-20T06:37:49+08:00"
+  },
+  {
+    "accession": "0001140361-26-044760",
+    "cik": "356309",
+    "company": "NEW JERSEY RESOURCES CORP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet: this quarter ends NJR's fiscal year, so it comes with the 10-K, not yet filed. The quote is in the release and holds 374,365 thousand (374.365 USD millions)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet: the fiscal-year 10-K is not filed. The quote is in the release and holds 47,230 thousand (47.23 USD millions)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet: the fiscal-year 10-K is not filed. The quote is in the release and holds 17,264 thousand (17.264 USD millions), matching the release's $17.3 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet: EPS for the quarter that ends the fiscal year is not filed on its own. The quote is in the release and holds 0.17, matching the release's $0.17 per share."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Every quote is in the release and holds its number (374,365; 47,230; 17,264 thousand; 0.17). The check against the filed figures is still to come, with the fiscal-year 10-K."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there, and the fiscal 2027 NFEPS guidance of $3.25 to $3.40 is captured with its exact quote and marked as non-GAAP."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "The analyst can use it as it stands: the four Q4 figures in USD millions, the guidance and three quoted claims. It would help to add that Q4 NFE fell to $10.7m while net income rose."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "374.365 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": "47.23 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under OperatingIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "net_income": {
+        "extracted": "17.264 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "0.17 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Judged on the release's fiscal 2026 figures, as the claim is about the year: net income $368.4m against $335.6m, NFE $361.6m against $329.6m. Q4 net income also rose 14.5% (17.264 against 15.072), though Q4 NFE fell to $10.7m from $16.2m."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Judged on the release's segment tables, as the fundamentals have no segments: fiscal 2026 NFE at S&T $33.4m against $18.5m, Energy Services $76.7m against $34.9m; CEV Q4 NFE $33.5m against $23.8m. ES lost $7.9m in Q4 against $4.5m."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "A statement of focus on operations, capital and value, which the fundamentals cannot test. For context, fiscal 2027 NFEPS guidance of $3.25 to $3.40 is below the fiscal 2026 NFEPS of $3.58."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Net income rose 14.5% on a year ago and 78.2% on the previous quarter, and fiscal 2026 net income rose to $368.4m from $335.6m. But the operating margin fell 8.8 pts to 12.6% on a year ago, and Q4 NFE fell to $10.7m from $16.2m."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 374.365,
+        "this_quarter_from": "release",
+        "year_ago": 188.318,
+        "change_year": 98.8,
+        "previous_quarter": 257.985,
+        "change_quarter": 45.1
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 47.23,
+        "this_quarter_from": "release",
+        "year_ago": 40.403,
+        "change_year": 16.9,
+        "previous_quarter": 31.892,
+        "change_quarter": 48.1
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 17.264,
+        "this_quarter_from": "release",
+        "year_ago": 15.072,
+        "change_year": 14.5,
+        "previous_quarter": 9.689,
+        "change_quarter": 78.2
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.17,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": 0.1,
+        "change_quarter": 70.0
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 12.616029810479077,
+        "this_quarter_from": "release",
+        "year_ago": 21.454667105640457,
+        "change_year": -8.8,
+        "previous_quarter": 12.361959028625694,
+        "change_quarter": 0.3
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 4.611542211478103,
+        "this_quarter_from": "release",
+        "year_ago": 8.00348346945061,
+        "change_year": -3.4,
+        "previous_quarter": 3.75564470802566,
+        "change_quarter": 0.9
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says fiscal 2026 delivered higher net income and net financial earnings.",
+        "quote": "We delivered higher net income and NFE, advanced initiatives to manage cost impacts for our utility customers",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the solar and gas infrastructure businesses expanded and Energy Services performed strongly.",
+        "quote": "expanded our solar and natural gas infrastructure businesses, and benefited from strong performance at Energy Services",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says fiscal 2027 will focus on affordable, safe and reliable operations, capital discipline and long-term value.",
+        "quote": "As we enter Fiscal 2027, we remain focused on affordable, safe, and reliable operations, disciplined capital management and creating long-term value for our shareowners.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO says fiscal 2026 demonstrated the value of the diversified platform and disciplined execution, with higher net income and strong Energy Services."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-20T06:37:49+08:00"
   }
 ]

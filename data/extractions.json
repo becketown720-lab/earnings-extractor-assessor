@@ -1125,5 +1125,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/0001140361-26-044760-index.htm",
     "saved_at": "2026-11-20T06:08:30+08:00"
+  },
+  {
+    "cik": "701985",
+    "company": "Bath & Body Works, Inc.",
+    "accession": "0000701985-26-000031",
+    "release_date": "2026-11-19",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 1577,
+        "unit": "USD millions",
+        "quote": "Net Sales | $ | 1,577"
+      },
+      "operating_income": {
+        "value": 108,
+        "unit": "USD millions",
+        "quote": "Operating Income | 108"
+      },
+      "net_income": {
+        "value": 38,
+        "unit": "USD millions",
+        "quote": "Net Income | $ | 38"
+      },
+      "diluted_eps": {
+        "value": 0.19,
+        "unit": "USD per share",
+        "quote": "Net Income per Diluted Share | $ | 0.19"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026, the company expects net sales to fall by between 5.5% and 2.0% from $2,724 million a year earlier.",
+      "quote": "For the fourth quarter of 2026, the company is forecasting net sales to decline between 5.5% and 2.0% compared to $2,724 million in the fourth quarter of 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter results beat the company's sales and adjusted EPS guidance.",
+        "quote": "Our third quarter results exceeded our sales and adjusted earnings per share guidance, and marks encouraging progress in our Consumer First Formula."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says digital grew for a second quarter in a row and wholesale with Ulta and Amazon is gaining momentum.",
+        "quote": "Our product innovation is resonating with customers and digital delivered its second consecutive quarter of growth. Our wholesale business with Ulta and Amazon continues to gain momentum"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company takes a prudent view of the consumer ahead of the holiday season.",
+        "quote": "As we approach the important holiday season, we are taking a prudent view of the consumer environment while remaining focused on execution."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO calls the progress encouraging but says there is more work to do, progress will not always be linear and the view of the consumer is prudent."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/701985-0000701985-26-000031.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/701985/000070198526000031/ex991bbwi-20263qearningsre.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/701985/000070198526000031/0000701985-26-000031-index.htm",
+    "saved_at": "2026-11-21T06:08:11+08:00"
+  },
+  {
+    "cik": "822370",
+    "company": "Emmaus Life Sciences, Inc.",
+    "accession": "0001213900-26-121951",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1.892,
+        "unit": "USD millions",
+        "quote": "Revenue, Net | $ | 1,892"
+      },
+      "operating_income": {
+        "value": -0.369,
+        "unit": "USD millions",
+        "quote": "Income (loss) from Operations | (369"
+      },
+      "net_income": {
+        "value": -4.741,
+        "unit": "USD millions",
+        "quote": "Net Loss | (4,741"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says global net revenues fell, mainly because U.S. net revenues dropped 44% after the licensing agreement with NIT took effect.",
+        "quote": "Our global net revenues declined for the three months ended September 30, 2026 as compared to the same period in 2025 primarily driven by a 44% decrease in U.S. net revenues as our licensing agreement with NeoImmuneTech Inc. (NIT), became effective on May 15, 2026."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says lower operating expenses partly offset the decline.",
+        "quote": "The decline was partially offset by a related reduction in our operating expenses."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "Management believes the conflict in the Middle East also hurt net revenues in the region.",
+        "quote": "Management believes that the conflict in the Midde East also adversely affected net revenues in the region"
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO explains a fall in revenues and names the Middle East conflict as a further drag, with only lower costs as an offset."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/822370-0001213900-26-121951.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/822370/000121390026121951/ea031195301ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/822370/000121390026121951/0001213900-26-121951-index.htm",
+    "saved_at": "2026-11-21T06:08:11+08:00"
   }
 ]

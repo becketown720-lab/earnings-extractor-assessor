@@ -1,99 +1,106 @@
 {
-  "fetched_at": "2026-11-19T10:48:32+08:00",
+  "fetched_at": "2026-11-20T10:14:19+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-17",
-    "end": "2026-11-18",
+    "start": "2026-11-18",
+    "end": "2026-11-19",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 13,
-  "answered": 13,
+  "requests": 14,
+  "answered": 14,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-17&enddt=2026-11-18",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 528 ms"
+      "detail": "HTTP 200, 41 KB in 163 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 106 ms"
+      "detail": "HTTP 200, 148 KB in 222 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 75 ms"
+      "detail": "HTTP 200, 156 KB in 139 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 74 ms"
+      "detail": "HTTP 200, 153 KB in 100 ms"
     },
     {
-      "name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/index.json",
+      "name": "Bath & Body Works, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/701985/000070198526000031/index.json",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 114 ms"
+      "detail": "HTTP 200, 1 KB in 90 ms"
     },
     {
-      "name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/expd-ex99_1.htm",
+      "name": "Bath & Body Works, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/701985/000070198526000031/ex991bbwi-20263qearningsre.htm",
       "ok": true,
-      "detail": "HTTP 200, 49 KB in 184 ms"
+      "detail": "HTTP 200, 219 KB in 44 ms"
     },
     {
-      "name": "NEW JERSEY RESOURCES CORP filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/index.json",
+      "name": "Emmaus Life Sciences, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/822370/000121390026121951/index.json",
       "ok": true,
-      "detail": "HTTP 200, 6 KB in 114 ms"
+      "detail": "HTTP 200, 1 KB in 66 ms"
     },
     {
-      "name": "NEW JERSEY RESOURCES CORP press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-1.htm",
+      "name": "Emmaus Life Sciences, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/822370/000121390026121951/ea031195301ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 1,260 KB in 152 ms"
+      "detail": "HTTP 200, 39 KB in 64 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 177 ms"
+      "detail": "HTTP 200, 3,174 KB in 231 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 224 ms"
+      "detail": "HTTP 200, 4,447 KB in 175 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 87 ms"
+      "detail": "HTTP 200, 2,745 KB in 142 ms"
     },
     {
-      "name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000746515.json",
+      "name": "Bath & Body Works, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000701985.json",
       "ok": true,
-      "detail": "HTTP 200, 3,138 KB in 190 ms"
+      "detail": "HTTP 200, 3,859 KB in 132 ms"
+    },
+    {
+      "name": "Emmaus Life Sciences, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000822370.json",
+      "ok": true,
+      "detail": "HTTP 200, 2,538 KB in 324 ms"
     },
     {
       "name": "NEW JERSEY RESOURCES CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000356309.json",
       "ok": true,
-      "detail": "HTTP 200, 4,083 KB in 291 ms"
+      "detail": "HTTP 200, 4,163 KB in 208 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000356309.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000746515.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000701985.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000822370.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
@@ -101,9 +108,9 @@
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_356309_000114036126044760_ef20085865_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_356309_000114036126044760_index.json",
-    "www.sec.gov_Archives_edgar_data_746515_000119312526466274_expd-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_746515_000119312526466274_index.json"
+    "www.sec.gov_Archives_edgar_data_701985_000070198526000031_ex991bbwi-20263qearningsre.htm",
+    "www.sec.gov_Archives_edgar_data_701985_000070198526000031_index.json",
+    "www.sec.gov_Archives_edgar_data_822370_000121390026121951_ea031195301ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_822370_000121390026121951_index.json"
   ]
 }

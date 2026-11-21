@@ -1244,5 +1244,115 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/822370/000121390026121951/ea031195301ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/822370/000121390026121951/0001213900-26-121951-index.htm",
     "saved_at": "2026-11-21T06:08:11+08:00"
+  },
+  {
+    "cik": "1434524",
+    "company": "ClearSign Technologies Corp",
+    "accession": "0001104659-26-130612",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the 26-burner Gulf Coast project has started up and early signs are that the burners will operate within specifications.",
+        "quote": "We are excited to report that, while still in progress, indications from the client site are that the burners will be operating within specifications."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the M1 Series midstream burners are gaining traction, with orders for five burners in the third quarter.",
+        "quote": "Our M1 Series midstream burners are continuing to show market traction, with orders for five burners in the third quarter."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO believes recent momentum and installations position the company for sustained growth across its products.",
+        "quote": "We believe this momentum, including these installations, positions the Company for sustained growth across its product portfolio."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of considerable progress across all major product lines, market traction and sustained growth, and mentions no headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1434524-0001104659-26-130612.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/tm2630382d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/0001104659-26-130612-index.htm",
+    "saved_at": "2026-11-22T06:08:07+08:00"
+  },
+  {
+    "cik": "63296",
+    "company": "MATTHEWS INTERNATIONAL CORP",
+    "accession": "0000063296-26-000118",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 256.705,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 256,705"
+      },
+      "operating_income": {
+        "value": -8.533,
+        "unit": "USD millions",
+        "quote": "Operating (loss) profit | (8,533)"
+      },
+      "net_income": {
+        "value": -19.503,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (19,503)"
+      },
+      "diluted_eps": {
+        "value": -0.62,
+        "unit": "USD per share",
+        "quote": "Loss per share -- diluted | $ | (0.62)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the company finished 2026 strongly, with fourth-quarter results at the high end of its expectations.",
+        "quote": "We finished 2026 strongly, with 4th quarter consolidated results at the high end of our expectations."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says Memorialization sales beat the same quarter last year, corporate costs fell and product identification sales grew 14%.",
+        "quote": "Sales for the Memorialization segment outperformed the same quarter a year ago, corporate and other non-operating costs declined, and product identification sales grew 14%."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the sale of the warehouse automation business helped cut debt by $100.4 million year over year.",
+        "quote": "The December 2025 sale of our warehouse automation business helped reduce debt by $100.4 million year over year."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Citing economic uncertainty, litigation and the leadership transition, the company gives no full-year fiscal 2027 guidance.",
+        "quote": "Accordingly, we are not providing full-year fiscal 2027 guidance at this time."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO describes a strong finish and record Memorialization results, but names economic uncertainty and engineering litigation as significant considerations."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/63296-0000063296-26-000118.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/ex991_4q2026earningspr.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/0000063296-26-000118-index.htm",
+    "saved_at": "2026-11-22T06:08:07+08:00"
   }
 ]

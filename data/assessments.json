@@ -9362,5 +9362,1056 @@
     "filing_found": false,
     "recheck": false,
     "assessed_at": "2026-11-21T06:38:06+08:00"
+  },
+  {
+    "accession": "0001140361-26-044760",
+    "cik": "356309",
+    "company": "NEW JERSEY RESOURCES CORP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "mismatch",
+        "reason": "The extract and its quote say 374,365 thousand (374.365 USD millions), the release's GAAP total operating revenues. The 10-K tag gives 219.739, contract revenue only (70.4% apart). The watcher read the release right; the gap is a narrower filed tag."
+      },
+      "operating_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-K (47.23 USD millions, full year less nine months); the quote holds 47,230 thousand."
+      },
+      "net_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-K (17.264 USD millions, full year less nine months); the quote holds 17,264 thousand."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No filed figure: EPS for the quarter that ends NJR's fiscal year is not filed on its own. The quote is in the release and holds 0.17 (0.15 a year ago)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 4,
+        "reason": "Operating income (47.23) and net income (17.264) match the 10-K; EPS 0.17 is in the release. Revenue (374.365) is the release's GAAP total and is right, but differs from the filed contract-revenue tag (219.739)."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there, and the fiscal 2027 NFEPS guidance of $3.25 to $3.40 is captured with its exact quote and marked as non-GAAP."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands. The analyst should know the 10-K tags only 219.739 of the 374.365 revenue as contract revenue, and that Q4 NFE fell to $10.7m while net income rose."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "374.365 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "219.739 USD millions (RevenueFromContractWithCustomerExcludingAssessedTax, 2026-07-01 to 2026-09-30, 92 days, 10-K (full year less nine months) filed 2026-11-19)",
+        "filed_value": 219.739,
+        "filed_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "filed_form": "10-K (full year less nine months)",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "70.368 per cent",
+        "match": false,
+        "note": "The filed figure does not match the extracted one (the rule: within 0.5 per cent)."
+      },
+      "operating_income": {
+        "extracted": "47.23 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "47.23 USD millions (OperatingIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-K (full year less nine months) filed 2026-11-19)",
+        "filed_value": 47.23,
+        "filed_tag": "OperatingIncomeLoss",
+        "filed_form": "10-K (full year less nine months)",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "net_income": {
+        "extracted": "17.264 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "17.264 USD millions (NetIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-K (full year less nine months) filed 2026-11-19)",
+        "filed_value": 17.264,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-K (full year less nine months)",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "diluted_eps": {
+        "extracted": "0.17 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release tables: fiscal 2026 net income 368,355 vs 335,627 thousand (+9.8%), NFE 361,629 vs 329,617. Q4 net income also rose 14.5% (17.264 vs 15.072), though Q4 NFE fell to 10,689 from 16,229."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release segment tables: Energy Services fiscal 2026 NFE 76,661 vs 34,868 thousand; S&T NFE 33,448 vs 18,541. Q4 operating income rose 16.9%. Note ES had a Q4 net financial loss of (7,870) vs (4,532)."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "A statement of priorities, which the fundamentals cannot test. It is consistent with the trend: operating income up 16.9% on a year ago and operating margin flat at 21.5%."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Q4 operating income rose 16.9% (47.23 vs 40.403) and net income 14.5% (17.264 vs 15.072); fiscal 2026 net income rose 9.8%. Q4 NFE fell to 10,689 from 16,229 thousand, which a positive tone leaves out."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 219.739,
+        "this_quarter_from": "10-K",
+        "year_ago": 188.318,
+        "change_year": 16.7,
+        "previous_quarter": 257.985,
+        "change_quarter": -14.8
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 47.23,
+        "this_quarter_from": "10-K",
+        "year_ago": 40.403,
+        "change_year": 16.9,
+        "previous_quarter": 31.892,
+        "change_quarter": 48.1
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 17.264,
+        "this_quarter_from": "10-K",
+        "year_ago": 15.072,
+        "change_year": 14.5,
+        "previous_quarter": 9.689,
+        "change_quarter": 78.2
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.17,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": 0.1,
+        "change_quarter": 70.0
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 21.493681139897785,
+        "this_quarter_from": "10-K",
+        "year_ago": 21.454667105640457,
+        "change_year": 0.0,
+        "previous_quarter": 12.361959028625694,
+        "change_quarter": 9.1
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 7.856593504111696,
+        "this_quarter_from": "10-K",
+        "year_ago": 8.00348346945061,
+        "change_year": -0.1,
+        "previous_quarter": 3.75564470802566,
+        "change_quarter": 4.1
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says fiscal 2026 delivered higher net income and net financial earnings.",
+        "quote": "We delivered higher net income and NFE, advanced initiatives to manage cost impacts for our utility customers",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the solar and gas infrastructure businesses expanded and Energy Services performed strongly.",
+        "quote": "expanded our solar and natural gas infrastructure businesses, and benefited from strong performance at Energy Services",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says fiscal 2027 will focus on affordable, safe and reliable operations, capital discipline and long-term value.",
+        "quote": "As we enter Fiscal 2027, we remain focused on affordable, safe, and reliable operations, disciplined capital management and creating long-term value for our shareowners.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO says fiscal 2026 demonstrated the value of the diversified platform and disciplined execution, with higher net income and strong Energy Services."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": true,
+    "assessed_at": "2026-11-22T06:37:52+08:00"
+  },
+  {
+    "accession": "0000701985-26-000031",
+    "cik": "701985",
+    "company": "Bath & Body Works, Inc.",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-Q (1,577 USD millions, filed 2026-11-19); the quote holds 1,577."
+      },
+      "operating_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-Q (108 USD millions); the quote holds 108."
+      },
+      "net_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-Q (38 USD millions); the quote holds 38."
+      },
+      "diluted_eps": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-Q (0.19 USD per share); the quote holds 0.19."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Every figure is confirmed against the 10-Q filed 2026-11-19: revenue 1,577, operating income 108, net income 38, diluted EPS 0.19."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there, and the Q4 guidance (sales down 5.5% to 2.0% on $2,724m) is captured with its exact quote. It could also have given the raised full-year guidance."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "The analyst can use it as it stands: four confirmed Q3 figures, the Q4 guidance and three quoted claims. It would help to note adjusted EPS of $0.26."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "1,577 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "1,577 USD millions (RevenueFromContractWithCustomerExcludingAssessedTax, 2026-08-02 to 2026-10-31, 91 days, 10-Q filed 2026-11-19)",
+        "filed_value": 1577.0,
+        "filed_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-08-02 to 2026-10-31, 91 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "operating_income": {
+        "extracted": "108 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "108 USD millions (OperatingIncomeLoss, 2026-08-02 to 2026-10-31, 91 days, 10-Q filed 2026-11-19)",
+        "filed_value": 108.0,
+        "filed_tag": "OperatingIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-08-02 to 2026-10-31, 91 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "net_income": {
+        "extracted": "38 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "38 USD millions (NetIncomeLoss, 2026-08-02 to 2026-10-31, 91 days, 10-Q filed 2026-11-19)",
+        "filed_value": 38.0,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-08-02 to 2026-10-31, 91 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "diluted_eps": {
+        "extracted": "0.19 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "0.19 USD per share (EarningsPerShareDiluted, 2026-08-02 to 2026-10-31, 91 days, 10-Q filed 2026-11-19)",
+        "filed_value": 0.19,
+        "filed_tag": "EarningsPerShareDiluted",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-08-02 to 2026-10-31, 91 days",
+        "difference": "+0.00 USD per share",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: the same to the cent)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "The release does not state the earlier guidance, so the beat cannot be tested. Revenue fell 1.1% on a year ago (1,577 vs 1,594); adjusted EPS was 0.26 vs 0.35, reported 0.19 vs 0.37."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release table: Direct sales rose 2.6% (307 vs 299) and International and Other, which holds wholesale, rose 39.3% (101 vs 73). Total revenue still fell 1.1%, as Stores fell 4.3%."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Consistent with the trend: revenue fell 1.1% on a year ago, operating income 32.9% (108 vs 161), and Q4 guidance is for sales down 5.5% to 2.0%."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue rose 4.2% on the previous quarter but fell 1.1% on a year ago; operating income fell 32.9% and net income 50.6% (38 vs 77). Encouraging words with caution fit these mixed numbers."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 1577.0,
+        "this_quarter_from": "10-Q",
+        "year_ago": 1594.0,
+        "change_year": -1.1,
+        "previous_quarter": 1514.0,
+        "change_quarter": 4.2
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 108.0,
+        "this_quarter_from": "10-Q",
+        "year_ago": 161.0,
+        "change_year": -32.9,
+        "previous_quarter": 216.0,
+        "change_quarter": -50.0
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 38.0,
+        "this_quarter_from": "10-Q",
+        "year_ago": 77.0,
+        "change_year": -50.6,
+        "previous_quarter": 118.0,
+        "change_quarter": -67.8
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.19,
+        "this_quarter_from": "10-Q",
+        "year_ago": 0.37,
+        "change_year": -48.6,
+        "previous_quarter": 0.58,
+        "change_quarter": -67.2
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 6.8484464172479385,
+        "this_quarter_from": "10-Q",
+        "year_ago": 10.100376411543287,
+        "change_year": -3.3,
+        "previous_quarter": 14.266842800528401,
+        "change_quarter": -7.4
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 2.4096385542168677,
+        "this_quarter_from": "10-Q",
+        "year_ago": 4.830614805520702,
+        "change_year": -2.4,
+        "previous_quarter": 7.793923381770146,
+        "change_quarter": -5.4
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter results beat the company's sales and adjusted EPS guidance.",
+        "quote": "Our third quarter results exceeded our sales and adjusted earnings per share guidance, and marks encouraging progress in our Consumer First Formula.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says digital grew for a second quarter in a row and wholesale with Ulta and Amazon is gaining momentum.",
+        "quote": "Our product innovation is resonating with customers and digital delivered its second consecutive quarter of growth. Our wholesale business with Ulta and Amazon continues to gain momentum",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company takes a prudent view of the consumer ahead of the holiday season.",
+        "quote": "As we approach the important holiday season, we are taking a prudent view of the consumer environment while remaining focused on execution.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO calls the progress encouraging but says there is more work to do, progress will not always be linear and the view of the consumer is prudent."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": true,
+    "assessed_at": "2026-11-22T06:37:52+08:00"
+  },
+  {
+    "accession": "0001213900-26-121951",
+    "cik": "822370",
+    "company": "Emmaus Life Sciences, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-Q (1.892 USD millions, filed 2026-11-19); the quote holds 1,892 thousand."
+      },
+      "operating_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-Q (-0.369 USD millions); the quote holds (369) thousand."
+      },
+      "net_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-Q (-4.741 USD millions); the quote holds (4,741) thousand."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left diluted EPS empty. The release gives only a net loss per share of $(0.07), which its text calls basic. The 10-Q files diluted EPS of -0.07, the same amount."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Every figure that could be checked is confirmed against the 10-Q: revenue 1.892, operating income -0.369, net income -4.741 USD millions."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Revenue, operating income and net income are there. The release gives no diluted EPS, only a basic loss per share of $(0.07), so leaving it empty is not a fault. It gives no guidance."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands. The analyst would want the $(0.07) loss per share, which the 10-Q files as diluted -0.07, and the year-ago figures (revenue 3,378, operating income 695 thousand)."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "1.892 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "1.892 USD millions (RevenueFromContractWithCustomerExcludingAssessedTax, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-19)",
+        "filed_value": 1.892,
+        "filed_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "operating_income": {
+        "extracted": "-0.369 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "-0.369 USD millions (OperatingIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-19)",
+        "filed_value": -0.369,
+        "filed_tag": "OperatingIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "net_income": {
+        "extracted": "-4.741 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "-4.741 USD millions (NetIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-19)",
+        "filed_value": -4.741,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": "-0.07 USD per share (EarningsPerShareDiluted, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-19)",
+        "filed_value": -0.07,
+        "filed_tag": "EarningsPerShareDiluted",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-19",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Revenue fell 44.0% on a year ago (1.892 vs 3.378) and 70.1% on the previous quarter (6.318)."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release table: operating expenses fell to 1,892 from 2,436 thousand (-22.3%), but operating income still swung to -0.369 from 0.695, so the offset was only partial."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "The release gives no regional revenue, so the effect of the Middle East conflict cannot be tested. Total revenue fell 44.0% on a year ago."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue fell 44.0% (1.892 vs 3.378), operating income turned to a loss of 0.369 from a profit of 0.695, and the net loss widened to 4.741 from 2.076. A cautious tone fits."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 1.892,
+        "this_quarter_from": "10-Q",
+        "year_ago": 3.378,
+        "change_year": -44.0,
+        "previous_quarter": 6.318,
+        "change_quarter": -70.1
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -0.369,
+        "this_quarter_from": "10-Q",
+        "year_ago": 0.695,
+        "change_year": null,
+        "previous_quarter": 3.791,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -4.741,
+        "this_quarter_from": "10-Q",
+        "year_ago": -2.076,
+        "change_year": null,
+        "previous_quarter": 1.339,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.07,
+        "this_quarter_from": "10-Q",
+        "year_ago": -0.03,
+        "change_year": null,
+        "previous_quarter": 0.02,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": -19.503171247357294,
+        "this_quarter_from": "10-Q",
+        "year_ago": 20.57430432208407,
+        "change_year": -40.1,
+        "previous_quarter": 60.003165558721115,
+        "change_quarter": -79.5
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -250.58139534883722,
+        "this_quarter_from": "10-Q",
+        "year_ago": -61.45648312611013,
+        "change_year": -189.1,
+        "previous_quarter": 21.193415637860085,
+        "change_quarter": -271.8
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says global net revenues fell, mainly because U.S. net revenues dropped 44% after the licensing agreement with NIT took effect.",
+        "quote": "Our global net revenues declined for the three months ended September 30, 2026 as compared to the same period in 2025 primarily driven by a 44% decrease in U.S. net revenues as our licensing agreement with NeoImmuneTech Inc. (NIT), became effective on May 15, 2026.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says lower operating expenses partly offset the decline.",
+        "quote": "The decline was partially offset by a related reduction in our operating expenses.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "Management believes the conflict in the Middle East also hurt net revenues in the region.",
+        "quote": "Management believes that the conflict in the Midde East also adversely affected net revenues in the region",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "cautious",
+      "reason": "The CEO explains a fall in revenues and names the Middle East conflict as a further drag, with only lower costs as an offset."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": true,
+    "assessed_at": "2026-11-22T06:37:52+08:00"
+  },
+  {
+    "accession": "0001104659-26-130612",
+    "cik": "1434524",
+    "company": "ClearSign Technologies Corp",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty, rightly: the release is an operations update with no figures. The 10-Q holds no three-month revenue figure."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty, rightly, as the release gives no figures. The 10-Q (filed 2026-11-16) gives -1.156 USD millions."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty, rightly, as the release gives no figures. The 10-Q (filed 2026-11-16) gives -1.068 USD millions."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty, rightly, as the release gives no figures. The 10-Q (filed 2026-11-16) gives -0.15 USD per share."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure was extracted and the release holds none, so nothing is wrong. All three claim quotes are in the saved text."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are empty, but the release gives no revenue, income, EPS or guidance, so nothing was left out."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "The claims are usable, but the extract has no results. The analyst must open the 10-Q filed 2026-11-16 (operating loss 1.156, net loss 1.068 USD millions, EPS -0.15)."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": "-1.156 USD millions (OperatingIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-16)",
+        "filed_value": -1.156,
+        "filed_tag": "OperatingIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-16",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": "-1.068 USD millions (NetIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-16)",
+        "filed_value": -1.068,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-16",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": "-0.15 USD per share (EarningsPerShareDiluted, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-16)",
+        "filed_value": -0.15,
+        "filed_tag": "EarningsPerShareDiluted",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-16",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "A claim about a burner project's start-up, which the fundamentals cannot test."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "A claim about burner orders (five in Q3), which the fundamentals cannot test; revenue is not filed as a quarter."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "Revenue is not filed as a quarter, so growth cannot be tested. Losses did narrow: operating loss 1.156 vs 1.75 a year ago and 1.498 the previous quarter."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "The losses narrowed on both a year ago and the previous quarter: operating loss 1.156 vs 1.75 and 1.498, net loss 1.068 vs 1.429 and 1.307. Revenue cannot be tested, and the company is still loss-making."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -1.156,
+        "this_quarter_from": "10-Q",
+        "year_ago": -1.75,
+        "change_year": null,
+        "previous_quarter": -1.498,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -1.068,
+        "this_quarter_from": "10-Q",
+        "year_ago": -1.429,
+        "change_year": null,
+        "previous_quarter": -1.307,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.15,
+        "this_quarter_from": "10-Q",
+        "year_ago": -0.26,
+        "change_year": null,
+        "previous_quarter": -0.22,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the 26-burner Gulf Coast project has started up and early signs are that the burners will operate within specifications.",
+        "quote": "We are excited to report that, while still in progress, indications from the client site are that the burners will be operating within specifications.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the M1 Series midstream burners are gaining traction, with orders for five burners in the third quarter.",
+        "quote": "Our M1 Series midstream burners are continuing to show market traction, with orders for five burners in the third quarter.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO believes recent momentum and installations position the company for sustained growth across its products.",
+        "quote": "We believe this momentum, including these installations, positions the Company for sustained growth across its product portfolio.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of considerable progress across all major product lines, market traction and sustained growth, and mentions no headwind."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": false,
+    "assessed_at": "2026-11-22T06:37:52+08:00"
+  },
+  {
+    "accession": "0000063296-26-000118",
+    "cik": "63296",
+    "company": "MATTHEWS INTERNATIONAL CORP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet: this quarter ends Matthews' fiscal year, so it comes with the 10-K, not yet filed. The quote holds 256,705 thousand (256.705 USD millions)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet: the fiscal-year 10-K is not filed. The quote holds (8,533) thousand, a loss of 8.533 USD millions."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet: the fiscal-year 10-K is not filed. The quote holds (19,503) thousand, a loss of 19.503 USD millions."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No filed figure: EPS for the quarter that ends the fiscal year is not filed on its own. The quote holds (0.62), against (0.88) a year ago."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Every quote is in the release and holds its number (256,705; (8,533); (19,503) thousand; (0.62)). The check against the filed figures is still to come, with the fiscal-year 10-K."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there. The release gives no fiscal 2027 guidance, so none was missed."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "The analyst can use it as it stands: four Q4 figures in USD millions and four quoted claims. It would help to add non-GAAP EPS of $0.39 and that sales fell 19.5%."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "256.705 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": "-8.533 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under OperatingIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "net_income": {
+        "extracted": "-19.503 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "-0.62 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "does not match",
+        "reason": "Losses narrowed (operating loss 8.533 vs 11.36 a year ago and 13.221 the previous quarter), but the quarter is still a net loss of 19.503, sales fell 19.5% (256,705 vs 318,841) and non-GAAP EPS fell to 0.39 from 0.50."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release tables: Memorialization sales 214,614 vs 209,680 (+2.4%); corporate costs (10,116) vs (11,988). The 14% product identification growth is not in the tables. Industrial Technologies sales fell 54.7%."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Release balance sheet: long-term debt plus current maturities fell to 610,408 from 710,832 thousand, a cut of 100,424, as claimed."
+      },
+      "M4": {
+        "verdict": "cannot check",
+        "reason": "A statement that no guidance is given, which the fundamentals cannot test. It is consistent with a quarter that is still loss-making (net loss 19.503) and Industrial Technologies adjusted EBITDA of (3,092)."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Losses narrowed on a year ago and the previous quarter (net loss 19.503 vs 27.47 and 23.689), while sales fell 19.5% and the company is still loss-making. A balanced tone fits."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 256.705,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -8.533,
+        "this_quarter_from": "release",
+        "year_ago": -11.36,
+        "change_year": null,
+        "previous_quarter": -13.221,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -19.503,
+        "this_quarter_from": "release",
+        "year_ago": -27.47,
+        "change_year": null,
+        "previous_quarter": -23.689,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.62,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": -0.75,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": -3.324049005667985,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -7.597436746459945,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the company finished 2026 strongly, with fourth-quarter results at the high end of its expectations.",
+        "quote": "We finished 2026 strongly, with 4th quarter consolidated results at the high end of our expectations.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says Memorialization sales beat the same quarter last year, corporate costs fell and product identification sales grew 14%.",
+        "quote": "Sales for the Memorialization segment outperformed the same quarter a year ago, corporate and other non-operating costs declined, and product identification sales grew 14%.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the sale of the warehouse automation business helped cut debt by $100.4 million year over year.",
+        "quote": "The December 2025 sale of our warehouse automation business helped reduce debt by $100.4 million year over year.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Citing economic uncertainty, litigation and the leadership transition, the company gives no full-year fiscal 2027 guidance.",
+        "quote": "Accordingly, we are not providing full-year fiscal 2027 guidance at this time.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO describes a strong finish and record Memorialization results, but names economic uncertainty and engineering litigation as significant considerations."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-22T06:37:52+08:00"
   }
 ]

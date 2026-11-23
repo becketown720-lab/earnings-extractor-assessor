@@ -10632,5 +10632,224 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-11-23T06:37:30+08:00"
+  },
+  {
+    "accession": "0000063296-26-000118",
+    "cik": "63296",
+    "company": "MATTHEWS INTERNATIONAL CORP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov refused, sec_cache/ 21 hours old), and the fiscal-year 10-K is still to come. The quote holds 256,705 thousand (256.705 USD millions)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov refused, sec_cache/ old); the fiscal-year 10-K is still to come. The quote holds (8,533) thousand, a loss of 8.533 USD millions."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov refused, sec_cache/ old); the fiscal-year 10-K is still to come. The quote holds (19,503) thousand, a loss of 19.503 USD millions."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today, and EPS for the quarter that ends the fiscal year is not filed on its own. The quote holds (0.62), against (0.88) a year ago in the release."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Every quote is in the release and holds its number (256,705; (8,533); (19,503) thousand; (0.62)). The check against the filed figures is still to come, with the fiscal-year 10-K."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there. The release gives no fiscal 2027 guidance, and the watcher saved that statement as claim M4, so nothing is missing."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands: figures and quotes are exact. The analyst should know the quarter is a net loss despite \"finished 2026 strongly\", and that sales fell 19.5% as Industrial Technologies more than halved."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "256.705 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "-8.533 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "-19.503 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "-0.62 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "does not match",
+        "reason": "Release tables: losses narrowed (operating loss 8,533 vs 11,360 thousand a year ago), but sales fell 19.5% (256,705 vs 318,841), the net loss was 19,503 and non-GAAP EPS fell to 0.39 from 0.50."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release tables: Memorialization sales 214,614 vs 209,680 thousand (+2.4%); corporate adjusted EBITDA (10,116) vs (11,988). The 14% product identification growth is not in the tables. Industrial Technologies sales fell to 42,091 from 92,960."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Release balance sheet: long-term debt plus current maturities fell to 610,408 from 710,832 thousand, a cut of 100,424, as claimed."
+      },
+      "M4": {
+        "verdict": "cannot check",
+        "reason": "A statement that no guidance is given, which the fundamentals cannot test. It is consistent with the trend in the release: a net loss of 19,503 thousand and Industrial Technologies adjusted EBITDA of (3,092)."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release tables: losses narrowed on a year ago (net loss 19,503 vs 27,470 thousand; operating margin -3.3% vs -3.6%), while sales fell 19.5% and the company is still loss-making. A balanced tone fits."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 256.705,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -8.533,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -19.503,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.62,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": -3.324049005667985,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -7.597436746459945,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the company finished 2026 strongly, with fourth-quarter results at the high end of its expectations.",
+        "quote": "We finished 2026 strongly, with 4th quarter consolidated results at the high end of our expectations.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says Memorialization sales beat the same quarter last year, corporate costs fell and product identification sales grew 14%.",
+        "quote": "Sales for the Memorialization segment outperformed the same quarter a year ago, corporate and other non-operating costs declined, and product identification sales grew 14%.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the sale of the warehouse automation business helped cut debt by $100.4 million year over year.",
+        "quote": "The December 2025 sale of our warehouse automation business helped reduce debt by $100.4 million year over year.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Citing economic uncertainty, litigation and the leadership transition, the company gives no full-year fiscal 2027 guidance.",
+        "quote": "Accordingly, we are not providing full-year fiscal 2027 guidance at this time.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO describes a strong finish and record Memorialization results, but names economic uncertainty and engineering litigation as significant considerations."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-24T06:38:03+08:00"
   }
 ]

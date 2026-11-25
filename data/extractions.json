@@ -1476,5 +1476,137 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/0001493152-26-053584-index.htm",
     "saved_at": "2026-11-25T06:08:32+08:00"
+  },
+  {
+    "cik": "6281",
+    "company": "ANALOG DEVICES INC",
+    "accession": "0000006281-26-000087",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 4373.42,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 4,373,420"
+      },
+      "operating_income": {
+        "value": 1868.514,
+        "unit": "USD millions",
+        "quote": "Operating income | 1,868,514"
+      },
+      "net_income": {
+        "value": 1650.159,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 1,650,159"
+      },
+      "diluted_eps": {
+        "value": 3.4,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per common share | $ | 3.40"
+      }
+    },
+    "guidance": {
+      "text": "For the first quarter of fiscal 2027, ADI forecasts revenue of $4.4 billion, plus or minus $150 million.",
+      "quote": "For the first quarter of fiscal 2027, we are forecasting revenue of $4.4 billion, +/- $150 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fiscal 2026 was a record year, and that more than two-thirds of the year's growth came from markets not centred on AI.",
+        "quote": "more than two-thirds of our growth in fiscal 2026 came from non-AI-centric market opportunities"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says ADI closed fiscal 2026 with record performance.",
+        "quote": "ADI closed fiscal 2026 with record performance, demonstrating the continued strength of our business model"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CFO says investment goes to R&D, capacity for customers' growth and steady returns to shareholders.",
+        "quote": "We are directing investment to three priorities: R&D that extends our technology leadership, capacity that secures supply for our customers’ growth, and consistent capital returns to our shareholders"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Management forecasts first-quarter fiscal 2027 revenue of $4.4 billion and reported EPS of $3.02, each within a range.",
+        "quote": "We are planning for reported EPS to be $3.02, +/- $0.20, and adjusted EPS to be $3.82, +/- $0.20."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of record performance and tremendous growth, and the CFO of the significant opportunity ahead."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/6281-0000006281-26-000087.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000087/adiq426exhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000087/0000006281-26-000087-index.htm",
+    "saved_at": "2026-11-26T06:07:58+08:00"
+  },
+  {
+    "cik": "1392694",
+    "company": "SurgePays, Inc.",
+    "accession": "0001493152-26-053931",
+    "release_date": "2026-11-24",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 17.26592,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 17,265,920"
+      },
+      "operating_income": {
+        "value": 20.649573,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | 20,649,573"
+      },
+      "net_income": {
+        "value": 18.107612,
+        "unit": "USD millions",
+        "quote": "Net income (loss) available to common stockholders | $ | 18,107,612"
+      },
+      "diluted_eps": {
+        "value": 0.34,
+        "unit": "USD per share",
+        "quote": "Net income (loss) per share, diluted | $ | 0.34"
+      }
+    },
+    "guidance": {
+      "text": "The company expects SurgePays POS transactions to exceed $10 million a month by the end of 2026.",
+      "quote": "The Company expects SurgePays POS transactions to exceed $10 million per month by the end of 2026."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter revenue was $17.3 million, up 6.5% on the second quarter, and nine-month revenue rose 21.3%.",
+        "quote": "Third quarter revenue totaled $17.3 million,(1) an increase of 6.5% sequentially, and nine-month revenue totaled $49.5 million, up 21.3% over the same period last year."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says point of sale and prepaid services grew 15.1% while general and administrative costs fell 15.4%.",
+        "quote": "Our point of sale and prepaid services business grew 15.1% year-over-year, while general and administrative expenses declined 15.4%."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO calls preliminary October revenue above $10 million an encouraging sign that the changes are working.",
+        "quote": "preliminary revenue above $10 million is an encouraging sign that those changes are working"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes a sharper focus and a stronger balance sheet, and calls October revenue an encouraging sign."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1392694-0001493152-26-053931.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/0001493152-26-053931-index.htm",
+    "saved_at": "2026-11-26T06:07:58+08:00"
   }
 ]

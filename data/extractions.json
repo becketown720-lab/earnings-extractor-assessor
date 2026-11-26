@@ -1608,5 +1608,115 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/0001493152-26-053931-index.htm",
     "saved_at": "2026-11-26T06:07:58+08:00"
+  },
+  {
+    "cik": "1901637",
+    "company": "USCB FINANCIAL HOLDINGS, INC.",
+    "accession": "0000927089-26-000198",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The CEO says the sale of securities is a deliberate step towards stronger recurring earnings and a better net interest margin.",
+        "quote": "This transaction is a deliberate step toward stronger recurring earnings and an improved net interest margin"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The sale will bring an estimated one-time after-tax loss of about $3.7 million, to be recorded in the fourth quarter of 2026.",
+        "quote": "The sale will result in an estimated one-time after-tax loss of approximately $3.7 million ($4.9 million pre-tax) that will be recorded in the fourth quarter of 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company expects the repositioning to add about $0.8 million of net interest income in the first year and about $0.03 of EPS over four quarters.",
+        "quote": "the repositioning is expected to increase net interest income by approximately $0.8 million in the first year, contribute approximately 3 basis points to annualized net interest margin"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of a strong capital position and a deliberate step towards stronger recurring earnings, while the release names a one-time loss."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1901637-0000927089-26-000198.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/ex_1051057.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/0000927089-26-000198-index.htm",
+    "saved_at": "2026-11-27T06:07:58+08:00"
+  },
+  {
+    "cik": "1005210",
+    "company": "SUBURBAN PROPANE PARTNERS LP",
+    "accession": "0001193125-26-477186",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 219.864,
+        "unit": "USD millions",
+        "quote": "Revenues | 219,864"
+      },
+      "operating_income": {
+        "value": -12.909,
+        "unit": "USD millions",
+        "quote": "Operating (loss) income | (12,909"
+      },
+      "net_income": {
+        "value": -56.841,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | (56,841"
+      },
+      "diluted_eps": {
+        "value": -0.85,
+        "unit": "USD per share",
+        "quote": "Net (loss) income per Common Unit - diluted | $ | (0.85"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO calls fiscal 2026 another strong year, with solid results in the propane operations.",
+        "quote": "Fiscal 2026 was another strong year for Suburban Propane with solid results in our propane operations"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says average daily RNG injection for fiscal 2026 rose 13% on the prior year.",
+        "quote": "average daily RNG injection for fiscal 2026 increased 13% compared to the prior year"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says total debt fell by more than $25.0 million and the leverage metric improved to 4.13x.",
+        "quote": "We also reduced total debt by more than $25.0 million, which, combined with the $6.0 million increase in Adjusted EBITDA, improved our leverage metric to 4.13x at the end of fiscal 2026."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the partnership enters fiscal 2027 with a larger, more reliable RNG platform and room to raise production.",
+        "quote": "we enter fiscal 2027 with a larger, more reliable RNG platform, opportunities to increase production through capacity optimization and higher feedstock intake"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the year strong, speaks of solid results and confidence in the long-term outlook, and notes a higher distribution."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1005210-0001193125-26-477186.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/sph-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/0001193125-26-477186-index.htm",
+    "saved_at": "2026-11-27T06:07:58+08:00"
   }
 ]
